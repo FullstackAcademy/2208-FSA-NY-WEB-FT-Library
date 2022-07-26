@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Intro to React</title>
+  </head>
+  <body>
+    <!-- We import React, ReactDOM, and babel from CDN -->
+    <script src="https://unpkg.com/react@16.12.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16.12.0/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+    <div id="root"></div>
+    <!--<script>-->
+    <script type="text/babel">
+      const div = document.createElement('div')
+      div.textContent = 'Hey 1911-FSA!'
+      div.className = 'someContainer'
+      /* Note: You can add React.createElement inside the children array */
+      // const element = React.createElement('div', {
+      //     className: 'container',
+      //     children: [
+      //         'Hey Fullstackers and Hoppers!',
+      //         ' I know you are cool',
+      //         React.createElement('div')
+      //     ]
+      // })
+      // This won't work if we don't have <script type="text/babel"> Babel transpiles this into browser readable code.
+      // https://babeljs.io/
+      const element = (
+        <div className='container'>{`Hey Fullstackers and Hoppers! You are cool!`}</div>
+      )
+      console.log(element)
+      // console.dir(div)
+      // "Inject" the React element within the root DOM node
+      ReactDOM.render(element, root)
+      // This won't work if we replaced div with element because that's a React element not a DOM node
+      //document.getElementById('root').appendChild(div)
+    </script>
+  </body>
+</html>
