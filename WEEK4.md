@@ -2,7 +2,11 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: Redux
+## Day 1: 4th of July
+
+- HOLIDAY
+
+## Day 2: Redux
 
 - Pre-Work:
   - [Redux: Core Concepts][redux-core-concepts]
@@ -15,34 +19,36 @@
 [egghead-redux]: https://egghead.io/lessons/react-redux-the-single-immutable-state-tree
 [unforgettable-redux]: https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966
 
-| Topic                            | Lecture | Slides                  | Demo | Solution | Review |
-| -------------------------------- | ------- | ----------------------- | ---- | -------- | ------ |
-| Intro to Redux (Redux Bank)      | -       | [🖼️][intro-redux-slides] | -    | -        | -      |
-| Action Types and Action Creators | -       | -                       | -    | -        | -      |
-| Pixelate-Redux                   | -       | -                       | -    | -        | -      |
-| Morning Review                   | -       | -                       | -    | -        | -      |
+| Topic                       | Lecture                                        | Slides                   | Demo                         | Solution                 |
+| --------------------------- | ---------------------------------------------- | ------------------------ | ---------------------------- | ------------------------ |
+| Intro to Redux (Redux Bank) |                         | [🖼️][intro-redux-slides] | -                            |      |
+| Pixelate-Redux              | | -                        | -                            |  |
+| React-Redux Intro           |                  | -                        |  | -                        |
+| Morning Review              | -                                              | [🎟][am-rev-4-1-ticket]   | -                            |      |
 
-[//]: # " Paste in table above >> [📺][intro-redux-lec] "
-[intro-redux-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][intro-redux-lec] '
+[intro-redux-lec]: https://youtu.be/OFrLgTHMYsc
+[//]: # ' Paste in table above >> [📺][pixelate-mid-checkin-lec] '
+[pixelate-mid-checkin-lec]: https://youtu.be/bhRvPXe9J_E
 [intro-redux-slides]: https://docs.google.com/presentation/d/1GRN3chkUUxoWm94DgPy_T6MtvDRhOGYMnA8Djdo3rmA/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][intro-redux-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][intro-redux-demo] '
 [intro-redux-demo]: ###
-[//]: # " Paste in table above >> [👾][redux-bank-sol] "
-[redux-bank-sol]: ###
-[//]: # " Paste in table above >> [📺][action-types-creators-lec] "
-[action-types-creators-lec]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🧑‍💻][action-types-creators-demo] "
-[action-types-creators-demo]: ###
-[//]: # " Paste in table above >> [👾][pixelate-redux-sol] "
-[pixelate-redux-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-4-1] "
+[//]: # ' Paste in table above >> [👾][redux-bank-sol] '
+[redux-bank-sol]: 01-junior-phase/day-15-redux/lab.redux-solution
+[//]: # ' Paste in table above >> [📺][react-redux-intro-lec] '
+[react-redux-intro-lec]: https://youtu.be/ZqrKNkLdSV4
+[//]: # ' Paste in table above >> [🧑‍💻][react-redux-intro-demo] '
+[react-redux-intro-demo]: 01-junior-phase/day-15-redux/react-redux
+[//]: # ' Paste in table above >> [👾][pixelate-redux-sol] '
+[pixelate-redux-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate-Redux.Solution
+[//]: # ' Paste in table above >> [📺][am-rev-4-1] '
 [am-rev-4-1]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-4-1-ticket] "
-[am-rev-4-1-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-4-1-demo] "
+[//]: # ' Paste in table above >> [🎟][am-rev-4-1-ticket] '
+[am-rev-4-1-ticket]: https://forms.gle/k2FteeR6bG9piXqM8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-1-demo] '
 [am-rev-4-1-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-4-1-sol] "
-[am-rev-4-1-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [👾][am-rev-4-1-sol] '
+[am-rev-4-1-sol]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/exit-ticket-solutions/15-redux.md
 
 - **You should be able to:**
   - Create a Redux store (with a proper reducer)
@@ -50,7 +56,7 @@
   - Subscribe to store changes
   - Dispatch state-changing actions to the store
 
-## Day 2: React-Redux, Thunks, `combineReducers`
+## Day 3: React-Redux, Thunks, `combineReducers`
 
 - Pre-Work:
   - [React-redux "connect" explained][connect-explained]
@@ -59,41 +65,42 @@
 [connect-explained]: https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/
 [thunks-the-basics]: https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60
 
-| Topic                   | Lecture | Slides              | Demo | Solution | Review |
-| ----------------------- | ------- | ------------------- | ---- | -------- | ------ |
-| React-Redux `connect`   | -       | [🖼️][connect-slides] | -    | -        | -      |
-| Redux Groceries         | -       | -                   | -    | -        | -      |
-| Redux Thunks            | -       | [🖼️][thunks-slides]  | -    | -        | -      |
-| Redux `combineReducers` | -       | -                   | -    | -        | -      |
-| Morning Review          | -       | -                   | -    | -        | -      |
+| Topic                   | Lecture                   | Slides                 | Demo                       | Solution                  | Review |
+| ----------------------- | ------------------------- | ---------------------- | -------------------------- | ------------------------- | ------ |
+| React-Redux `connect`   |        | [🖼️][connect-slides]   | -                          |         | -      |
+| Redux Groceries         |  | -                      | -                          | | -      |
+| Redux Thunks            |        | [🖼️][thunks-slides]    |          |        | -      |
+| Redux `combineReducers` |  | -                      |  |  | -      |
+| Morning Review          |         | [🎟][am-rev-4-2-ticket] |    | -                         | -      |
 
-[//]: # " Paste in table above >> [📺][connect-lec] "
-[connect-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][connect-lec] '
+[connect-lec]: https://youtu.be/Ms8C6fuJjL4
 [connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][connect-sol] "
-[connect-sol]: ###
-[//]: # " Paste in table above >> [👾][redux-groceries-sol] "
-[redux-groceries-sol]: ###
-[//]: # " Paste in table above >> [📺][thunks-lec] "
-[thunks-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [👾][connect-sol] '
+[connect-sol]: https://github.com/FullstackAcademy/Lab.ReactReduxConnect/tree/solution
+[redux-groceries-lec]: https://youtu.be/TdlV2Q_O3Z4
+[//]: # ' Paste in table above >> [👾][redux-groceries-sol] '
+[redux-groceries-sol]: https://github.com/FullstackAcademy/PairExercise.ReduxGroceries/tree/Solution
+[//]: # ' Paste in table above >> [📺][thunks-lec] '
+[thunks-lec]: https://youtu.be/JHch3lqKikY
 [thunks-slides]: https://docs.google.com/presentation/d/1fnISsDpLf-uG5vhGMwTzERSv0BHxg_fysz-dMsIhhWo/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][thunks-demo] "
-[thunks-demo]: ###
-[//]: # " Paste in table above >> [👾][thunks-sol] "
-[thunks-sol]: ###
-[//]: # " Paste in table above >> [📺][combinereducers-lec] "
-[combinereducers-lec]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🧑‍💻][combineReducers-demo] "
-[combinereducers-demo]: ###
-[//]: # " Paste in table above >> [👾][combinereducers-sol] "
-[combinereducers-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-4-2] "
-[am-rev-4-2]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-4-2-ticket] "
-[am-rev-4-2-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-4-2-demo] "
-[am-rev-4-2-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-4-2-sol] "
+[//]: # ' Paste in table above >> [🧑‍💻][thunks-demo] '
+[thunks-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/6e22c1235d983a3b7eb9c67b20a5a1badce1b551
+[//]: # ' Paste in table above >> [👾][thunks-sol] '
+[thunks-sol]: https://github.com/FullstackAcademy/Lab.Thunk/tree/solution
+[//]: # ' Paste in table above >> [📺][combinereducers-lec] '
+[combinereducers-lec]: https://youtu.be/UW--9sO-mC0
+[//]: # ' Paste in table above >> [🧑‍💻][combineReducers-demo] '
+[combinereducers-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-16-thunk-combineReducers/combine-reducers-demo
+[//]: # ' Paste in table above >> [👾][combinereducers-sol] '
+[combinereducers-sol]: https://github.com/FullstackAcademy/Lab.CombineReducers/tree/solution
+[//]: # ' Paste in table above >> [📺][am-rev-4-2] '
+[am-rev-4-2]: https://youtu.be/Q9lW04Und20
+[//]: # ' Paste in table above >> [🎟][am-rev-4-2-ticket] '
+[am-rev-4-2-ticket]: https://forms.gle/C578Ks39qcJhuqdZ8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-2-demo] '
+[am-rev-4-2-demo]: 01-junior-phase/day-17-react-router/Morning-Review.js
+[//]: # ' Paste in table above >> [👾][am-rev-4-2-sol] '
 [am-rev-4-2-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -110,7 +117,7 @@
 
 </details>
 
-## Day 3: React Router, Readium
+## Day 4: React Router, Readium
 
 - Pre-Work:
   - [A Simple React Router v4 Tutorial][react-router-tutorial]
@@ -119,33 +126,33 @@
 [react-router-tutorial]: https://blog.pshrmn.com/simple-react-router-v4-tutorial/
 [react-router-quick-start]: https://reacttraining.com/react-router/web/guides/quick-start
 
-| Topic            | Lecture | Slides                 | Demo | Solution | Review |
-| ---------------- | ------- | ---------------------- | ---- | -------- | ------ |
-| React Router 101 | -       | [🖼️][router-101-slides] | -    | -        | -      |
-| React Router 201 | -       | [🖼️][router-201-slides] | -    | -        | -      |
-| Readium          | -       | -                      | -    | -        | -      |
-| Morning Review   | -       | -                      | -    | -        | -      |
+| Topic            | Lecture              | Slides                  | Demo              | Solution             | Review |
+| ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
+| React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |
+| React Router 201 |  | [🖼️][router-201-slides] |  | -                    | -      |
+| Readium          | -                    | -                       | -                 |   | -      |
+| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 | | -      |
 
-[//]: # " Paste in table above >> [📺][router-101-lec] "
-[router-101-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][router-101-lec] '
+[router-101-lec]: https://youtu.be/3WTzsNhdKAQ
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][router-201-lec] "
-[router-201-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][router-201-lec] '
+[router-201-lec]: https://youtu.be/ecjxIliULco
 [router-201-slides]: https://docs.google.com/presentation/d/18aYozkFFmBQ1BNQCznw2T6tkF8O9dONFPPtrRnxSf28/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][router-demo] "
-[router-demo]: ###
-[//]: # " Paste in table above >> [👾][readium-sol] "
-[readium-sol]: ###
-[//]: # " Paste in table above >> [📺][readium-rev] "
+[//]: # ' Paste in table above >> [🧑‍💻][router-demo] '
+[router-demo]: 01-junior-phase/day-17-react-router/React-Router-Demo
+[//]: # ' Paste in table above >> [👾][readium-sol] '
+[readium-sol]: https://github.com/FullstackAcademy/PairExercise.Readium-with-Redux.Solution
+[//]: # ' Paste in table above >> [📺][readium-rev] '
 [readium-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-4-3] "
-[am-rev-4-3]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-4-3-ticket] "
-[am-rev-4-3-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-4-3-demo] "
+[//]: # ' Paste in table above >> [📺][am-rev-4-3] '
+[am-rev-4-3]: https://youtu.be/f4O9d1bAFNo
+[//]: # ' Paste in table above >> [🎟][am-rev-4-3-ticket] '
+[am-rev-4-3-ticket]: https://forms.gle/e2ynEbCPCTpq84uS8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-3-demo] '
 [am-rev-4-3-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-4-3-sol] "
-[am-rev-4-3-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [👾][am-rev-4-3-sol] '
+[am-rev-4-3-sol]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/exit-ticket-solutions/17-react-router
 
 - **You should be able to:**
   - Use the URL bar to manage state and control navigation within a SPA using the `react-router-dom` library
@@ -164,39 +171,40 @@
 
 </details>
 
-## Day 4: React Forms
+## Day 5: React Forms
 
 - Pre-Work:
   - [React: Forms][react-forms-docs]
 
 [react-forms-docs]: https://reactjs.org/docs/forms.html
 
-| Topic           | Lecture | Slides                | Demo | Solution | Review |
-| --------------- | ------- | --------------------- | ---- | -------- | ------ |
-| React Forms 101 | -       | [🖼️][forms-101-slides] | -    | -        | -      |
-| React Forms 201 | -       | [🖼️][forms-201-slides] | -    | -        | -      |
-| Todo List       | -       | -                     | -    | -        | -      |
-| Morning Review  | -       | -                     | -    | -        | -      |
+| Topic          | Lecture             | Slides                                        | Demo                  | Solution                                                                                                                              | Review                                         |
+| -------------- | ------------------- | --------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| React Forms    |  | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |      |                                                                                                                       | -                                              |
+| Todo List      | -                   | -                                             | -                     | |  |
+| Morning Review |    | [🎟][am-rev-4-4-ticket]                        | | -                                                                                                                                     | -                                              |
 
-[//]: # " Paste in table above >> [📺][forms-101-lec] "
-[forms-101-lec]: #paste-YouTube-link-here
+[forms-sol]: https://github.com/FullstackAcademy/Solution.ReactForms
+[//]: # ' Paste in table above >> [📺][forms-101-lec] '
+[forms-101-lec]: https://youtu.be/ad3afzPIPQA
 [forms-101-slides]: https://docs.google.com/presentation/d/1pkRzpRAqq9ZtWx58WZLjhkJ0zS3lemaLZwKb1wCSfRU/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][forms-201-lec] "
+[//]: # ' Paste in table above >> [📺][forms-201-lec] '
 [forms-201-lec]: #paste-YouTube-link-here
 [forms-201-slides]: https://docs.google.com/presentation/d/11e9PBgkmjd0ng-jpOhxDEjfhG2OAvU5NbDkfb9GW85c/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][forms-demo] "
-[forms-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][todo-list-sol] "
-[todo-list-sol]: ###
-[//]: # " Paste in table above >> [📺][todo-list-rev] "
-[todo-list-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-4-4] "
-[am-rev-4-4]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-4-4-ticket] "
-[am-rev-4-4-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-4-4-demo] "
-[am-rev-4-4-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-4-4-sol] "
+[//]: # ' Paste in table above >> [🧑‍💻][forms-demo] '
+[forms-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/2a6e0b643abbea1d93c65eaff2a2218ccf6618b5
+[//]: # ' Paste in table above >> [👾][todo-list-sol] '
+[todo-list-sol-1]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution
+[todo-list-sol-2]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution/tree/without-todo-in-state
+[//]: # ' Paste in table above >> [📺][todo-list-rev] '
+[todo-list-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113
+[//]: # ' Paste in table above >> [📺][am-rev-4-4] '
+[am-rev-4-4]: https://youtu.be/LfzjfdmILvM
+[//]: # ' Paste in table above >> [🎟][am-rev-4-4-ticket] '
+[am-rev-4-4-ticket]: https://forms.gle/wko2as2WvB5FWeb48
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-4-demo] '
+[am-rev-4-4-demo]: 01-junior-phase/day-17-react-router/Morning-Review.js
+[//]: # ' Paste in table above >> [👾][am-rev-4-4-sol] '
 [am-rev-4-4-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -223,7 +231,7 @@
 
 </details>
 
-## Day 5: Sockets
+<!-- ## Day 5: Sockets
 
 - Pre-Work:
   - [Pusher: What are WebSockets?][pusher-sockets]
@@ -232,23 +240,23 @@
 [pusher-sockets]: https://pusher.com/websockets
 [treehouse-sockets]: https://blog.teamtreehouse.com/an-introduction-to-websockets
 
-| Topic                       | Lecture | Slides              | Demo | Solution | Review |
-| --------------------------- | ------- | ------------------- | ---- | -------- | ------ |
+| Topic                       | Lecture | Slides               | Demo | Solution | Review |
+| --------------------------- | ------- | -------------------- | ---- | -------- | ------ |
 | TCP, WebSockets & Socket.IO | -       | [🖼️][sockets-slides] | -    | -        | -      |
-| StackChat                   | -       | -                   | -    | -        | -      |
+| StackChat                   | -       | -                    | -    | -        | -      |
 
-[//]: # " Paste in table above >> [📺][sockets-lec] "
+[//]: # ' Paste in table above >> [📺][sockets-lec] '
 [sockets-lec]: #paste-YouTube-link-here
 [sockets-slides]: https://docs.google.com/presentation/d/1-IVJ6SVkx6Ds2pSJogB44bEZp1Z8OTtrMFiaQD7er_w/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][sockets-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][sockets-demo] '
 [sockets-demo]: ###
-[//]: # " Paste in table above >> [👾][sockets-sol] "
+[//]: # ' Paste in table above >> [👾][sockets-sol] '
 [sockets-sol]: ###
-[//]: # " Paste in table above >> [👾][stackchat-sol] "
+[//]: # ' Paste in table above >> [👾][stackchat-sol] '
 [stackchat-sol]: ###
-[//]: # " Paste in table above >> [📺][stackchat-rev] "
+[//]: # ' Paste in table above >> [📺][stackchat-rev] '
 [stackchat-rev]: ###
-[//]: # " No Exit Ticket or Morning Review for Sockets "
+[//]: # ' No Exit Ticket or Morning Review for Sockets '
 
 - **You should be able to:**
   - Define the networking layers IP, TCP, and HTTP
@@ -259,7 +267,7 @@
 **<details><summary>📎 Extra Resources:</summary>**
 
 - [Socket.IO cheatsheet](https://socket.io/docs/emit-cheatsheet/)
-- [Socket.IO documentation](https://socket.io/docs/)
+- [Socket.IO documentation](https://socket.io/docs/) -->
 
 </details>
 
