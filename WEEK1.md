@@ -2,43 +2,53 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: 👥 Collaboration, Git
+## Day 1: 👥 Orientation, HTML & CSS
 
 - Pre-Work:
-  - [📖 A Pair is Better Than One][pair-better]
-  - [📖 Git Handbook][git-handbook]
+  - [📖 HTML Basics][html-basics]
+  - [📖 CSS Basics][css-basics]
 
 [git-handbook]: https://guides.github.com/introduction/git-handbook/
 [pair-better]: https://hackernoon.com/a-pair-is-better-than-one-e9d4514add9f
 
-| Topic                     | Lecture | Slides                       | Demo | Solution | Review |
-| ------------------------- | ------- | ---------------------------- | ---- | -------- | ------ |
-| Intro to Junior Phase     | -       | -                            | -    | -        | -      |
-| Zoom Protocols            | -       | [🖼️][zoom-slides]             | -    | -        | -      |
-| Intro to Pair Programming | -       | [🖼️][pair-programming-slides] | -    | -        | -      |
-| Git: Getting Confident    | -       | [🖼️][git-slides]              | -    | -        | -      |
-| Morning Review            | -       | -                            | -    | -        | -      |
+| Topic                         | Lecture                    | Slides                        | Demo           | Solution             |
+| ----------------------------- | -------------------------- | ----------------------------- | -------------- | -------------------- |
+| Intro to Junior Phase         | [📺][orientation]          | -                             | -              | -                    |
+| Giving and Recieving Feedback | [📺][feedback-lec]         | [🖼️][feedback-slides]         | -              | -                    |
+| How to Work Together          | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | -              | -                    |
+| HTML                          | -                          | [🖼️][html-slides]             | -              | -                    |
+| CSS                           | [📺][css-lec]              | [🖼️][css-slides]              | [🧑‍💻][css-demo] | [👾][css-sol]        |
+| Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              | [👾][am-rev-1-1-sol] |
 
-[//]: # " Paste in table above >> [🖼️][intro-jr-phase-slides] "
+[//]: # ' Paste in table above >> [🖼️][intro-jr-phase-slides] '
 [intro-jr-phase-slides]: #link-to-slide-deck-here
-[//]: # " Paste in table above >> [🖼️][zoom-slides] "
+[//]: # ' Paste in table above >> [🖼️][zoom-slides] '
 [zoom-slides]: https://docs.google.com/presentation/d/1UTdfDmUkNakkOEB40YFUPGikJIhtD_DKYm3nY32iqm8/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][pair-programming-lec] "
-[pair-programming-lec]: #paste-YouTube-link-here
+[orientation]: https://youtu.be/fttG8KLA9BE
+[feedback-lec]: https://youtu.be/X1bp8CD4UL8
+[feedback-slides]: 01-junior-phase/day-1-orientation-html&css/feedback.pdf
+[//]: # ' Paste in table above >> [📺][pair-programming-lec] '
+[pair-programming-lec]: https://youtu.be/o8jENGDEfLE
 [pair-programming-slides]: https://docs.google.com/presentation/d/1Rp_13FMUVrDTmiNfa1YYwKp8rHSAJOvI_gOjPiO8NUY/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][git-lec] "
-[git-lec]: #paste-YouTube-link-here
-[git-slides]: https://docs.google.com/presentation/d/16LGtin0SF41wNOgxbCYDG434Xo7Zbd7j3RfS6C4zIU0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][git-demo] "
-[git-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][am-rev-1-1] "
+[//]: # ' Paste in table above >> [📺][html-lec] '
+[html-lec]: #paste-YouTube-link-here
+[html-slides]: https://docs.google.com/presentation/d/1Nx7cEU0bMGIBSQPqC5BYS622owsmnoMlmY6yzfN21I0/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][html-demo] '
+[html-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [📺][css-lec] '
+[css-lec]: https://youtu.be/SQpVqRXoLeQ
+[css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][css-demo] '
+[css-demo]: 01-junior-phase/day-1-orientation-html&css/html-css
+[css-sol]: https://hackmd.io/@2ctk-Q4uQAmhb4qw1GghPA/BJnXBHsnY#CSS-Lab-Solutions
+[//]: # ' Paste in table above >> [📺][am-rev-1-1] '
 [am-rev-1-1]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-1-1-ticket] "
-[am-rev-1-1-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-1-1-demo] "
+[//]: # ' Paste in table above >> [🎟][am-rev-1-1-ticket] '
+[am-rev-1-1-ticket]: https://forms.gle/zvEfpJLK4LvFobaq7
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-1-demo] '
 [am-rev-1-1-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-1-1-sol] "
-[am-rev-1-1-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [👾][am-rev-1-1-sol] '
+[am-rev-1-1-sol]: 01-junior-phase/exit-ticket-solutions/01-html-css.md
 
 - **You should be able to:**
   - Practice effective pair programming
@@ -58,53 +68,50 @@
 
 </details>
 
-## Day 2: HTML, CSS, Flexbox
+## Day 2: Github, CSS & Flexbox
 
 - Pre-Work:
-  - [📖 HTML Basics][html-basics]
-  - [📖 CSS Basics][css-basics]
+  - [📖 A Pair is Better Than One][pair-better]
+  - [📖 Git Handbook][git-handbook]
   - [📖 A Complete Guide to Flexbox][flexbox-complete-guide]
 
 [html-basics]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [css-basics]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 [flexbox-complete-guide]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-| Topic                | Lecture | Slides              | Demo | Solution | Review |
-| -------------------- | ------- | ------------------- | ---- | -------- | ------ |
-| HTML                 | -       | [🖼️][html-slides]    | -    | -        | -      |
-| CSS                  | -       | [🖼️][css-slides]     | -    | -        | -      |
-| Flexbox              | -       | [🖼️][flexbox-slides] | -    | -        | -      |
-| Landing Page Liftoff | -       | -                   | -    | -        | -      |
-| Morning Review       | -       | -                   | -    | -        | -      |
+| Topic                  | Lecture           | Slides                 | Demo               | Solution                                               |
+| ---------------------- | ----------------- | ---------------------- | ------------------ | ------------------------------------------------------ |
+| Git: Getting Confident |     | [🖼️][git-slides]       | -                  | -                                                      |
+| Flexbox                |  [🖼️][flexbox-slides]   |  | -                                                      |
+| Landing Page Liftoff   |     | -                      | -                  |  |
+| Morning Review         | -                 |  | -                  |                                   |
 
-[//]: # " Paste in table above >> [📺][html-lec] "
-[html-lec]: #paste-YouTube-link-here
-[html-slides]: https://docs.google.com/presentation/d/1Nx7cEU0bMGIBSQPqC5BYS622owsmnoMlmY6yzfN21I0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][html-demo] "
-[html-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][css-lec] "
-[css-lec]: #paste-YouTube-link-here
-[css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][css-demo] "
-[css-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][flexbox-lec] "
-[flexbox-lec]: #paste-YouTube-link-here
-[flexbox-slides]: https://docs.google.com/presentation/d/1K0WQvp8wSHEyIZQci_eDh8EhwKafD-m6mymsA7G80l0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][flexbox-demo] "
-[flexbox-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] "
-[landing-page-sol]: ####
+[//]: # ' Paste in table above >> [📺][git-lec] '
+[git-lec]: https://youtu.be/4_GR0X-7bdI
+[git-slides]: https://docs.google.com/presentation/d/16LGtin0SF41wNOgxbCYDG434Xo7Zbd7j3RfS6C4zIU0/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][git-demo] '
+[git-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [📺][flexbox-lec] '
+[flexbox-lec]: https://youtu.be/BrQKfj_G1a4
+[flexbox-slides]: https://docs.google.com/presentation/d/1kXdkZCb4UcxeW-t403rF-wJPPZqtmmQWYN6sXraYkns
+[//]: # ' Paste in table above >> [🧑‍💻][flexbox-demo] '
+[flexbox-demo]: 01-junior-phase/day-2-flex-demo
+[//]: # ' Paste in table above >> [📺][flexbox-lec] '
+[lpl-qa]: https://youtu.be/hARiHyXfQys
+[//]: # ' Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] '
+[landing-page-sol]: https://github.com/FullstackAcademy/Landing-Page-Launchpad/tree/solution
+[landing-page-sol-vid]: https://www.youtube.com/watch?v=TvTiebmefWY
 [landing-page-sol-extra]: ####
-[//]: # " Paste in table above >> [📺][landing-page-rev] "
+[//]: # ' Paste in table above >> [📺][landing-page-rev] '
 [landing-page-rev]: ####
-[//]: # " Paste in table above >> [📺][am-rev-1-2] "
+[//]: # ' Paste in table above >> [📺][am-rev-1-2] '
 [am-rev-1-2]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-1-2-ticket] "
-[am-rev-1-2-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-1-2-demo] "
+[//]: # ' Paste in table above >> [🎟][am-rev-1-2-ticket] '
+[am-rev-1-2-ticket]: https://forms.gle/NsMxamsPx3H2Gcy99
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-2-demo] '
 [am-rev-1-2-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-1-2-sol] "
-[am-rev-1-2-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [👾][am-rev-1-2-sol] '
+[am-rev-1-2-sol]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/exit-ticket-solutions/02-git-flexbox.md
 
 - **You should be able to:**
   - Create a basic HTML document using common elements (`div`, `p`, `h1`, `ul`, `button`, etc)
@@ -138,7 +145,58 @@
 
 </details>
 
-## Day 3: Debugging, DOM, Event Listeners & Handlers
+## Day 3: Intro to Node
+
+- Pre-Work:
+  - [📖 What Exactly is Node.js][nodejs-intro]
+
+[nodejs-intro]: https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5
+
+| Topic                                    | Lecture                | Slides                  | Demo                    | Solution              | Review |
+| ---------------------------------------- | ---------------------- | ----------------------- | ----------------------- | --------------------- | ------ |
+| Intro to Node: Modules                   |   [🖼️][node-slides]       | | | -      |
+| Intro to Node: Asyncronicity & Callbacks |    | [🖼️][node-async-slides] |    |  | -      |
+| Morning Review                           |    |  | -                       |   | -      |
+
+[//]: # ' Paste in table above >> [📺][node-modules-lec] '
+[node-modules-lec]: https://youtu.be/3vo0KvrkuPY
+[node-slides]: https://docs.google.com/presentation/d/1k69_CpSosFbImFStCnpjh4tdNlbtLSq6WB3MZA8fhZo/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][node-modules-demo] '
+[node-modules-demo]: 01-junior-phase/day-3-node-demo
+[//]: # ' Paste in table above >> [📺][node-async-lec] '
+[node-async-lec]: https://youtu.be/6ekSyyNrNqc
+[node-async-slides]: https://docs.google.com/presentation/d/1rJxfZ8Dcv4uDS2LXZSJ0EvAjUyKAXY_6KDjCAvFvrOA/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][node-async-demo] '
+[node-async-demo]: http://latentflip.com/loupe/
+[//]: # ' Paste in table above >> [👾][node-shell-sol] '
+[node-basics-sol]: https://github.com/FullstackAcademy/Solution.NodeBasics
+[node-shell-sol]: https://github.com/FullstackAcademy/Solution.NodeShell
+[//]: # ' Paste in table above >> [📺][give-recieve-feedback-lec] '
+[give-recieve-feedback-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [🖼️][give-recieve-feedback-slides] '
+[give-recieve-feedback-slides]: ###
+[//]: # ' Paste in table above >> [📺][am-rev-1-5] '
+[am-rev-1-5]: https://youtu.be/rlwfkQ32t38
+[//]: # ' Paste in table above >> [🎟][am-rev-1-5-ticket] '
+[am-rev-1-5-ticket]: https://forms.gle/AjLTzpPXduKpyjp67
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-5-demo] '
+[am-rev-1-5-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [👾][am-rev-1-5-sol] '
+[am-rev-1-5-sol]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/exit-ticket-solutions/03-node.md
+
+- **You should be able to:**
+  - Explain the purpose of Node
+  - Explain asynchronicity in JavaScript and how to handle asynchronous code
+
+**<details><summary>📎 Extra Resources:</summary>**
+
+- [📺 What is the Event Loop Anyway?][event-loop]
+
+[event-loop]: https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en
+
+</details>
+
+## Day 4A: Debugging, DOM, Event Listeners & Handlers
 
 - Pre-Work:
   - [📖 Thoughts on Debugging][debug-thoughts]
@@ -149,40 +207,40 @@
 [dom-what]: https://css-tricks.com/dom/
 [dom-intro]: https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/
 
-| Topic                                                 | Lecture | Slides                 | Demo | Solution | Review |
-| ----------------------------------------------------- | ------- | ---------------------- | ---- | -------- | ------ |
-| Practical Debugging: Prevention                       | -       | [🖼️][prevention-slides] | -    | -        | -      |
-| Practical Debugging: Detection, Diagnosis & Treatment | -       | [🖼️][ddt-slides]        | -    | -        | -      |
-| Intro to the DOM                                      | -       | [🖼️][dom-intro-slides]  | -    | -        | -      |
-| Event Listeners & Handlers (Whack-a-mole)             | -       | [🖼️][dom-events-slides] | -    | -        | -      |
-| Morning Review                                        | -       | -                      | -    | -        | -      |
+| Topic                                                 | Lecture              | Slides                  | Demo                  | Solution                                                             |
+| ----------------------------------------------------- | -------------------- | ----------------------- | --------------------- | -------------------------------------------------------------------- |
+| Practical Debugging: Prevention                       | N/A                  | [🖼️][prevention-slides] | -                     | -                                                                    |
+| Practical Debugging: Detection, Diagnosis & Treatment | N/A                  | [🖼️][ddt-slides]        | -                     | -                                                                    |
+| Intro to the DOM                                      |  | [🖼️][dom-intro-slides]  |  | -                                                                    |
+| Event Listeners & Handlers (Whack-a-mole)             |  | [🖼️][dom-events-slides] | -                     |  |
+| Morning Review                                        |     | [🎟][am-rev-1-3-ticket]  |  | -                                                                    |
 
-[//]: # " Paste in table above >> [📺][prevention-lec] "
+[//]: # ' Paste in table above >> [📺][prevention-lec] '
 [prevention-lec]: #paste-YouTube-link-here
 [prevention-slides]: https://docs.google.com/presentation/d/16eQJNl0JTHr9TYi8vRXKffA2br8QMywM0-7pn8oJNGY/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][ddt-lec] "
+[//]: # ' Paste in table above >> [📺][ddt-lec] '
 [ddt-lec]: #paste-YouTube-link-here
 [ddt-slides]: https://docs.google.com/presentation/d/1ACMEsqVvP1BzMGN234Jx4YoP5ZuODLXxtY59R09wzKM/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][dom-intro-lec] "
-[dom-intro-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][dom-intro-lec] '
+[dom-intro-lec]: https://youtu.be/djf86jYmrZA
 [dom-intro-slides]: https://docs.google.com/presentation/d/1MtF7vUwnY08ZA5ofDpjcjlcv49GAal70k0F7my3D6YQ/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][dom-intro-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][dom-intro-demo] '
 [dom-intro-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][dom-events-lec] "
-[dom-events-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][dom-events-lec] '
+[dom-events-lec]: https://youtu.be/WIJhPLBjt4k
 [dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
-[//]: # " Paste in table above >> [👨‍💻][dom-events-demo] "
-[dom-events-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] "
-[whack-a-mole-sol]: ###
-[whack-a-mole-sol-timer]: ###
-[//]: # " Paste in table above >> [📺][am-rev-1-3] "
-[am-rev-1-3]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-1-3-ticket] "
-[am-rev-1-3-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-1-3-demo] "
-[am-rev-1-3-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-1-3-sol] "
+[//]: # ' Paste in table above >> [👨‍💻][dom-events-demo] '
+[dom-events-demo]: 01-junior-phase/day-4-DOM/dom-event-listeners-demo
+[//]: # ' Paste in table above >> [👾][whack-a-mole-sol] </br> [👾 with timer][whack-a-mole-sol-timer] '
+[whack-a-mole-sol]: https://github.com/FullstackAcademy/Lab.Whack-a-mole/tree/solution
+[whack-a-mole-sol-timer]: https://github.com/FullstackAcademy/Lab.Whack-a-mole/tree/solutionWithTimer
+[//]: # ' Paste in table above >> [📺][am-rev-1-3] '
+[am-rev-1-3]: https://youtu.be/awdZ807lYUo
+[//]: # ' Paste in table above >> [🎟][am-rev-1-3-ticket] '
+[am-rev-1-3-ticket]: https://forms.gle/YRYVafMWg33aETKP6
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-3-demo] '
+[am-rev-1-3-demo]: 01-junior-phase/day-4-DOM/morning-review-notes
+[//]: # ' Paste in table above >> [👾][am-rev-1-3-sol] '
 [am-rev-1-3-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -203,27 +261,26 @@
 
 </details>
 
-## Day 4: Pixelate
+## Day 4B: Pixelate
 
 - Pre-Work:
   - [📖 An Introduction To DOM Events][dom-intro] from yesterday's pre-work
 
-| Topic          | Lecture | Slides | Demo | Solution | Review |
-| -------------- | ------- | ------ | ---- | -------- | ------ |
-| Pixelate       | -       | -      | -    | -        | -      |
-| Morning Review | -       | -      | -    | -        | -      |
+| Topic    | Video Walkthrough  | Solution           |
+| -------- | ------------------ | ------------------ |
+| Pixelate |  |  |
 
-[//]: # " Paste in table above >> [👾][pixelate-sol] "
-[pixelate-sol]: ###
-[//]: # " Paste in table above >> [📺][pixelate-rev] "
-[pixelate-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-1-4] "
+[//]: # ' Paste in table above >> [👾][pixelate-sol] '
+[pixelate-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution
+[//]: # ' Paste in table above >> [📺][pixelate-rev] '
+[pixelate-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
+[//]: # ' Paste in table above >> [📺][am-rev-1-4] '
 [am-rev-1-4]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-1-4-ticket] "
+[//]: # ' Paste in table above >> [🎟][am-rev-1-4-ticket] '
 [am-rev-1-4-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-1-4-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-4-demo] '
 [am-rev-1-4-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-1-4-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-1-4-sol] '
 [am-rev-1-4-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -247,55 +304,73 @@
 
 </details>
 
-## Day 5: Intro to Node
+## Day 5: Express, Handling Asynchronous Operations (`async`/`await`)
 
 - Pre-Work:
-  - [📖 What Exactly is Node.js][nodejs-intro]
+  - [📺 Web Dev Simplified: What is an API?][what-is-an-api]
+  - [📺 Codecademy: Back-End Web Architecture][codecademy-be-web-arch]
+  - 📤 Download an API development tool (your choice) 📥
+    - [Postman](https://www.postman.com/)
+    - [Insomnia](https://insomnia.rest/)
+  - [📖 Async/Await: The Hero Javascript Deserved][twilio-async-await]
 
-[nodejs-intro]: https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5
+[what-is-an-api]: https://youtu.be/tgbRY96q-KM
+[codecademy-be-web-arch]: https://www.codecademy.com/articles/back-end-architecture
+[twilio-async-await]: https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
 
-| Topic                                    | Lecture | Slides                 | Demo | Solution | Review |
-| ---------------------------------------- | ------- | ---------------------- | ---- | -------- | ------ |
-| Intro to Node: Modules                   | -       | [🖼️][node-slides]       | -    | -        | -      |
-| Intro to Node: Asyncronicity & Callbacks | -       | [🖼️][node-async-slides] | -    | -        | -      |
-| How to Give and Receive Feedback         | -       | -                      | -    | -        | -      |
-| Morning Review                           | -       | -                      | -    | -        | -      |
+| Topic                          | Lecture | Slides                   | Demo | Solution | Review |
+| ------------------------------ | ------- | ------------------------ | ---- | -------- | ------ |
+| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | -        | -      |
+| `async`/`await`                |  | [🖼️][async-await-slides] |  |   | -      |
+| Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
 
-[//]: # " Paste in table above >> [📺][node-modules-lec] "
-[node-modules-lec]: #paste-YouTube-link-here
-[node-slides]: https://docs.google.com/presentation/d/1k69_CpSosFbImFStCnpjh4tdNlbtLSq6WB3MZA8fhZo/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][node-modules-demo] "
-[node-modules-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][node-async-lec] "
-[node-async-lec]: #paste-YouTube-link-here
-[node-async-slides]: https://docs.google.com/presentation/d/1rJxfZ8Dcv4uDS2LXZSJ0EvAjUyKAXY_6KDjCAvFvrOA/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][node-async-demo] "
-[node-async-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][node-shell-sol] "
-[node-shell-sol]: ###
-[//]: # " Paste in table above >> [📺][give-recieve-feedback-lec] "
-[give-recieve-feedback-lec]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🖼️][give-recieve-feedback-slides] "
-[give-recieve-feedback-slides]: ###
-[//]: # " Paste in table above >> [📺][am-rev-1-5] "
-[am-rev-1-5]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-1-5-ticket] "
-[am-rev-1-5-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-1-5-demo] "
-[am-rev-1-5-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-1-5-sol] "
-[am-rev-1-5-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [📺][express-101-lec] '
+[express-101-lec]: https://youtu.be/n6i7Io84pjg
+[express-101-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/express-intro-2206.pdf
+[//]: # ' Paste in table above >> [🧑‍💻][express-101-demo] '
+[express-101-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/async-await
+[//]: # ' Paste in table above >> [📺][express-201-lec] '
+[express-201-lec]: #paste-YouTube-link-here
+[express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][express-201-demo] '
+[express-201-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [👾][express-wizard-1-sol] '
+[express-wizard-1-sol]: ###
+[//]: # ' Paste in table above >> [📺][express-wizard-1-rev] '
+[express-wizard-1-rev]: ###
+[//]: # ' Paste in table above >> [📺][async-await-lec] '
+[async-await-lec]: https://youtu.be/DSlxl6p3YaY
+[async-await-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/async-await-2206.pdf
+[//]: # ' Paste in table above >> [🧑‍💻][async-await-demo] '
+[async-await-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/express
+[//]: # ' Paste in table above >> [👾][async-await-sol] '
+[async-await-sol]: https://github.com/FullstackAcademy/Solution.Lab.AsyncAwait
+[//]: # ' Paste in table above >> [👾][async-await-sol] '
+[async-await-sol-2]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/dax-async-lab-solution.js
+[//]: # ' Paste in table above >> [📺][am-rev-2-1] '
+[am-rev-2-1]: https://youtu.be/ALE0Gm2xJ6E
+[//]: # ' Paste in table above >> [🎟][am-rev-2-1-ticket] '
+[am-rev-2-1-ticket]: https://forms.gle/YJ1wKKV3nFnFB2Be8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-1-demo] '
+[am-rev-2-1-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
+[am-rev-2-1-sol]: #paste-gist-here
 
 - **You should be able to:**
-  - Explain the purpose of Node
-  - Explain asynchronicity in JavaScript and how to handle asynchronous code
+  - Describe the role of a client, a server, and HTTP
+  - Describe Express middleware, requests, and responses
+  - Handle URL params in an Express route
+  - Know when and why you would use `app.use` and `next` in your Express app
+  - Use `module.exports` and `require` to create modular applications
+  - Handle asynchronous code and Promises with `async`/`await`
 
 **<details><summary>📎 Extra Resources:</summary>**
 
-- [📺 What is the Event Loop Anyway?][event-loop]
+- [📖 A Simple Explanation of Express Middleware][express-middleware]
+- [📖 Nodejs in Flames][nodejs-flames]
 
-[event-loop]: https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en
+[express-middleware]: https://medium.com/@agoiabeladeyemi/a-simple-explanation-of-express-middleware-c68ea839f498
+[nodejs-flames]: https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4
 
 </details>
-
 [Continue to 📆 Week 2](WEEK2.md)
