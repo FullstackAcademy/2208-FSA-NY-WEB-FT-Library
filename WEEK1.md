@@ -13,12 +13,12 @@
 
 | Topic                         | Lecture                    | Slides                        | Demo           | Solution             |
 | ----------------------------- | -------------------------- | ----------------------------- | -------------- | -------------------- |
-| Intro to Junior Phase         | [📺][orientation]          | -                             | -              | -                    |
-| Giving and Recieving Feedback | [📺][feedback-lec]         | [🖼️][feedback-slides]         | -              | -                    |
-| How to Work Together          | [📺][pair-programming-lec] | [🖼️][pair-programming-slides] | -              | -                    |
+| Intro to Junior Phase         |        | -                             | -              | -                    |
+| Giving and Recieving Feedback |        | [🖼️][feedback-slides]         | -              | -                    |
+| How to Work Together          |  | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          | -                          | [🖼️][html-slides]             | -              | -                    |
-| CSS                           | [📺][css-lec]              | [🖼️][css-slides]              | [🧑‍💻][css-demo] | [👾][css-sol]        |
-| Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              | [👾][am-rev-1-1-sol] |
+| CSS                           |              | [🖼️][css-slides]              | [🧑‍💻][css-demo] |         |
+| Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              |  |
 
 [//]: # ' Paste in table above >> [🖼️][intro-jr-phase-slides] '
 [intro-jr-phase-slides]: #link-to-slide-deck-here
