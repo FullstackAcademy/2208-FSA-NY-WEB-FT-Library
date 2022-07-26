@@ -228,43 +228,28 @@
 
 </details>
 
-<!-- ## Day 5: Sockets
+## Day 5: Sockets
 
-- Pre-Work:
-  - [Pusher: What are WebSockets?][pusher-sockets]
-  - [treehouse: An Introduction to WebSockets][treehouse-sockets]
+| Topic          | Lecture | Slides | Demo | Solution | Review |
+| -------------- | ------- | ------ | ---- | -------- | ------ |
+| Goodie Bag     | -       | -      | -    | -        | -      |
+| Draw the Stack | -       | -      | -    | -        | -      |
+| Intro to JPFP  | -       | -      | -    | -        | -      |
 
-[pusher-sockets]: https://pusher.com/websockets
-[treehouse-sockets]: https://blog.teamtreehouse.com/an-introduction-to-websockets
-
-| Topic                       | Lecture | Slides               | Demo | Solution | Review |
-| --------------------------- | ------- | -------------------- | ---- | -------- | ------ |
-| TCP, WebSockets & Socket.IO | -       | [🖼️][sockets-slides] | -    | -        | -      |
-| StackChat                   | -       | -                    | -    | -        | -      |
-
-[//]: # ' Paste in table above >> [📺][sockets-lec] '
-[sockets-lec]: #paste-YouTube-link-here
-[sockets-slides]: https://docs.google.com/presentation/d/1-IVJ6SVkx6Ds2pSJogB44bEZp1Z8OTtrMFiaQD7er_w/edit?usp=sharing
-[//]: # ' Paste in table above >> [🧑‍💻][sockets-demo] '
-[sockets-demo]: ###
-[//]: # ' Paste in table above >> [👾][sockets-sol] '
-[sockets-sol]: ###
-[//]: # ' Paste in table above >> [👾][stackchat-sol] '
-[stackchat-sol]: ###
-[//]: # ' Paste in table above >> [📺][stackchat-rev] '
-[stackchat-rev]: ###
-[//]: # ' No Exit Ticket or Morning Review for Sockets '
-
-- **You should be able to:**
-  - Define the networking layers IP, TCP, and HTTP
-  - Describe how TCP establishes a connection with a server
-  - Define websockets and event emitters
-  - Implement websockets using socket.io
-
-**<details><summary>📎 Extra Resources:</summary>**
-
-- [Socket.IO cheatsheet](https://socket.io/docs/emit-cheatsheet/)
-- [Socket.IO documentation](https://socket.io/docs/) -->
+[//]: # ' Paste in table above >> [📺][goodie-bag-lec] '
+[goodie-bag-lec]: https://youtu.be/xqi0ISTf1K8
+[//]: # ' Paste in table above >> [🔗][goodie-bag] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
+[goodie-bag]: 01-junior-phase/day-19-goodie-bag/GoodieBag
+[//]: # ' Paste in table above >> [👾][goodie-bag-sol] '
+[goodie-bag-sol]: https://github.com/FullstackAcademy/GoodieBag.Solution
+[//]: # ' Paste in table above >> [📺][draw-the-stack-lec] '
+[draw-the-stack-lec]: https://youtu.be/nI277QxP91o
+[//]: # ' Paste in table above >> [🔗][draw-the-stack] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
+[//]: # ' Paste in table above >> [👾][draw-the-stack-sol] '
+[draw-the-stack-sol]: ###link-to-img-of-end-point
+[//]: # ' Paste in table above >> [📺][jpfp-lec] '
+[jpfp-lec]: https://youtu.be/DG6oVj9uYt4
+[//]: # ' Paste in table above, already linked at top in Checkpoints section >> [🔗][jpfp] '
 
 </details>
 
