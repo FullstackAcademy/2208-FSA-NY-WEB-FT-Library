@@ -84,7 +84,7 @@
 | Git: Getting Confident |     | [🖼️][git-slides]       | -                  | -                                                      |
 | Flexbox                |  [🖼️][flexbox-slides]   |  | -                                                      |
 | Landing Page Liftoff   |     | -                      | -                  |  |
-| Morning Review         | -                 |  | -                  |                                   |
+| Morning Review         | -                 | [🎟][am-rev-1-2-ticket] | -                  |                                   |
 
 [//]: # ' Paste in table above >> [📺][git-lec] '
 [git-lec]: https://youtu.be/4_GR0X-7bdI
@@ -156,7 +156,7 @@
 | ---------------------------------------- | ---------------------- | ----------------------- | ----------------------- | --------------------- | ------ |
 | Intro to Node: Modules                   |   [🖼️][node-slides]       | | | -      |
 | Intro to Node: Asyncronicity & Callbacks |    | [🖼️][node-async-slides] |    |  | -      |
-| Morning Review                           |    |  | -                       |   | -      |
+| Morning Review                           |    | [🎟][am-rev-1-5-ticket] | -                       |   | -      |
 
 [//]: # ' Paste in table above >> [📺][node-modules-lec] '
 [node-modules-lec]: https://youtu.be/3vo0KvrkuPY
