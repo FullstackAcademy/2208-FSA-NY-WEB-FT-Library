@@ -2,36 +2,65 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: Single-Page Applications
+## Day 1
+
+| Topic          | Lecture                           | Slides                       | Demo | Solution             | Review |
+| -------------- | --------------------------------- | ---------------------------- | ---- | -------------------- | ------ |
+| Morning Review | -                                 | -                            | -    | -                    | -      |
+| Review         |            | -                            | -    | -                    | -      |
+| Cody's Cafe    |  | [🖼️][pillars-ov] Pillars Doc | -    |  | -      |
+
+[//]: # ' Paste in table above >> [🎟][am-rev-3-1-ticket] '
+[am-rev-3-1-ticket]: #paste-google-form-link-here
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
+[am-rev-3-1-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [👾][am-rev-3-1-sol] '
+[am-rev-3-1-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [👾][codys-cafe-sol] '
+[codys-cafe-sol]: https://github.com/FullstackAcademy/codys-cafe-solution
+[//]: # ' Paste in table above >> [📺][am-rev-3-1] '
+[am-rev-3-1]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][pillars-ov] '
+[pillars-ov]: https://youtu.be/2mMLpl-nif0
+[pillars-doc]: 01-junior-phase/day-11-pillars/Pillars-Notes.md
+[//]: # ' Paste in table above >> [📺][express-seq-rev] '
+[express-seq-rev]: https://youtu.be/5SOO-qdiy40
+
+## Day 2: Pillars
+
+- To prepare, see the "📚 Supplemental Study Materials" section at the top of this repo.
+- _Thoroughly_ read the [Academic Integrity Policy](01-junior-phase/academic-integrity-policy.md), which includes allowed resources.
+
+## Day 3: Single-Page Applications
 
 [trip-planner-pre]: https://learn.fullstackacademy.com/workshop/5a709ec934f42b0004ded97f/content/5a709ec934f42b0004ded98a/text
 
-| Topic                  | Lecture | Slides                 | Demo | Solution | Review |
-| ---------------------- | ------- | ---------------------- | ---- | -------- | ------ |
-| Front-End Modules      | -       | [🖼️][fe-modules-slides] | -    | -        | -      |
-| SPA & AJAX (PuppyBowl) | -       | [🖼️][spa-ajax-slides]   | -    | -        | -      |
-| Morning Review         | -       | -                      | -    | -        | -      |
+| Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
+| ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
+| Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | -                    | -      |
+| SPA & AJAX (PuppyBowl) |    | [🖼️][spa-ajax-slides]   |   |  | -      |
+| Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
 
-[//]: # " Paste in table above >> [📺][fe-modules-lec] "
-[fe-modules-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][fe-modules-lec] '
+[fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][fe-modules-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][fe-modules-demo] '
 [fe-modules-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][spa-ajax-lec] "
-[spa-ajax-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][spa-ajax-lec] '
+[spa-ajax-lec]: https://youtu.be/gatX6cl3_lE
 [spa-ajax-slides]: https://docs.google.com/presentation/d/1F3O6Zwl3blYnRw9pOJ2dGvlfngR3XTNa_ITlV1kV2P0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][spa-ajax-demo] "
-[spa-ajax-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][puppybowl-sol] "
-[puppybowl-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-3-1] "
-[am-rev-3-1]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-3-1-ticket] "
-[am-rev-3-1-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-3-1-demo] "
-[am-rev-3-1-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-3-1-sol] "
-[am-rev-3-1-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [🧑‍💻][spa-ajax-demo] '
+[spa-ajax-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-12-spa-ajax/ajax-demo
+[//]: # ' Paste in table above >> [👾][puppybowl-sol] '
+[puppybowl-sol]: https://github.com/FullstackAcademy/PairExercise.PuppyBowl.Solution
+[//]: # ' Paste in table above >> [📺][am-rev-3-3] '
+[am-rev-3-3]: https://youtu.be/RBwkH0fKU2c
+[//]: # ' Paste in table above >> [🎟][am-rev-3-3-ticket] '
+[am-rev-3-3-ticket]: https://forms.gle/pHmdBQP6Qu2dSZrY8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-3-demo] '
+[am-rev-3-3-demo]: /01-junior-phase/day-13-react/morning-rev
+[//]: # ' Paste in table above >> [👾][am-rev-3-3-sol] '
+[am-rev-3-3-sol]: 01-junior-phase/exit-ticket-solutions/12-spa.md
 
 - **You should be able to:**
   - Define a single page application (SPA)
@@ -66,51 +95,58 @@
 
 </details>
 
-## Day 2: Pillars
-
-- To prepare, see the "📚 Supplemental Study Materials" section at the top of this repo.
-- _Thoroughly_ read the [Academic Integrity Policy](01-junior-phase/academic-integrity-policy.md), which includes allowed resources.
-
-## Day 3: Intro to React
+## Day 4: React Day!
 
 - Pre-Work:
   - [freeCodeCamp: React’s Five Fingers of Death. Master these five concepts, then master React.][react-five]
+  - [React: State and Lifecycle][react-state-and-lifecycle]
 
 [react-five]: https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
+[react-state-and-lifecycle]: https://reactjs.org/docs/state-and-lifecycle.html
 
-| Topic          | Lecture | Slides                  | Demo | Solution | Review |
-| -------------- | ------- | ----------------------- | ---- | -------- | ------ |
-| Intro to React | -       | [🖼️][intro-react-slides] | -    | -        | -      |
-| State & Props  | -       | [🖼️][state-props-slides] | -    | -        | -      |
-| Morning Review | -       | -                       | -    | -        | -      |
+| Topic                              | Lecture                   | Slides                       | Demo                     | Solution                  | Review |
+| ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
+| Intro to React                     |     | [🖼️][intro-react-slides]     | -                        |     |        |
+| State & Props                      |    | [🖼️][state-props-slides]     |   |     |        |
+| Component Lifecycle (Contact List) |  | [🖼️][react-lifecycle-slides] | |  |        |
+| Morning Review                     |         | [🎟][am-rev-3-4-ticket]       | -                        | -                         | -      |
 
-[//]: # " Paste in table above >> [📺][intro-react-lec] "
-[intro-react-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][intro-react-lec] '
+[intro-react-lec]: https://youtu.be/WVkfIRo4170
 [intro-react-slides]: https://docs.google.com/presentation/d/12YbNHn_ooDhKiAjdnwbQVbqaEesj-5oNEqheN8BCME0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][intro-react-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][intro-react-demo] '
 [intro-react-demo]: ###
-[//]: # " Paste in table above >> [👾][intro-react-sol] "
-[intro-react-sol]: ###
-[//]: # " Paste in table above >> [📺][state-props-lec] "
-[state-props-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [👾][intro-react-sol] '
+[intro-react-sol]: 01-junior-phase/day-13-react/Lab.FirstComponent/app/index.js
+[//]: # ' Paste in table above >> [📺][state-props-lec] '
+[state-props-lec]: https://youtu.be/TVSLxwQdBDk
 [state-props-slides]: https://docs.google.com/presentation/d/1Hkc85unbFqqOMoUmmCJKWQVYwfzWaVdHf7YfQYTiXnY/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][state-props-demo] "
-[state-props-demo]: ###
-[//]: # " Paste in table above >> [👾][state-props-sol] "
-[state-props-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-3-3] "
-[am-rev-3-3]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-3-3-ticket] "
-[am-rev-3-3-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-3-3-demo] "
-[am-rev-3-3-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-3-3-sol] "
-[am-rev-3-3-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [🧑‍💻][state-props-demo] '
+[state-props-demo]: 01-junior-phase/day-13-react/PropsAndState/app
+[state-props-demo-2]: 01-junior-phase/day-13-react/PropsAndState/app/app.js
+[//]: # ' Paste in table above >> [👾][state-props-sol] '
+[state-props-sol]: https://github.com/FullstackAcademy/Lab.PropsAndState/blob/solution/app/index.js
+[//]: # ' Paste in table above >> [📺][react-lifecycle-lec] '
+[react-lifecycle-lec]: https://youtu.be/1EJ-JG69Hk0
+[react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
+[//]: # ' Paste in table above >> [👾][react-lifecycle-sol] '
+[react-lifecycle-sol]: https://github.com/FullstackAcademy/PairExercise.ContactList.Solution
+[//]: # ' Paste in table above >> [📺][am-rev-3-4] '
+[am-rev-3-4]: https://youtu.be/U5yiIVQ_gxk
+[//]: # ' Paste in table above >> [🎟][am-rev-3-4-ticket] '
+[am-rev-3-4-ticket]: https://forms.gle/GdumZxXvT6fJDsko7
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-4-demo] '
+[am-rev-3-4-demo]: #link-demo-here
+[//]: # ' Paste in table above >> [👾][am-rev-3-4-sol] '
+[am-rev-3-4-sol]: #paste-gist-here
 
 - **You should be able to:**
   - Write a class or functional component in React
   - Pass, receive, and render props in a React component
   - Render lists of data in JSX
+  - Hook into React lifecycle events (i.e. `componentDidMount`)
+  - Define and update state in a component
+  - Handle state changes in response to AJAX, user events, etc
 - **Homework:**
   - [React Concepts Video Series][react-concepts]
 
@@ -132,44 +168,10 @@
 - [Overreacted: Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 - [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - **The Virtual DOM**
+
   - [Codecademy: React The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
   - [Pluralsight: Virtual DOM - the Difference Maker in React JS](https://www.pluralsight.com/guides/virtual-dom-difference-maker-react-js)
   - [bitsofcode: Understanding the Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/)
-
-</details>
-
-## Day 4: React Component Lifecycle
-
-- Pre-Work:
-  - [React: State and Lifecycle][react-state-and-lifecycle]
-
-[react-state-and-lifecycle]: https://reactjs.org/docs/state-and-lifecycle.html
-
-| Topic                              | Lecture | Slides                      | Demo | Solution | Review |
-| ---------------------------------- | ------- | --------------------------- | ---- | -------- | ------ |
-| Component Lifecycle (Contact List) | -       | [🖼️][react-lifecycle-slides] | -    | -        | -      |
-| Morning Review                     | -       | -                           | -    | -        | -      |
-
-[//]: # " Paste in table above >> [📺][react-lifecycle-lec] "
-[react-lifecycle-lec]: #paste-YouTube-link-here
-[react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][react-lifecycle-sol] "
-[react-lifecycle-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-3-4] "
-[am-rev-3-4]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-3-4-ticket] "
-[am-rev-3-4-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-3-4-demo] "
-[am-rev-3-4-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-3-4-sol] "
-[am-rev-3-4-sol]: #paste-gist-here
-
-- **You should be able to:**
-  - Hook into React lifecycle events (i.e. `componentDidMount`)
-  - Define and update state in a component
-  - Handle state changes in response to AJAX, user events, etc
-
-**<details><summary>📎 Extra Resources:</summary>**
 
 - **React documentation**
   - [`setState()`](https://reactjs.org/docs/react-component.html#setstate)
@@ -199,21 +201,22 @@
 
 - Pre-Work: None!
 
-| Topic          | Lecture | Slides                 | Demo | Solution | Review |
-| -------------- | ------- | ---------------------- | ---- | -------- | ------ |
-| Intro to Juke  | -       | [🖼️][intro-juke-slides] | -    | -        | -      |
-| Morning Review | -       | -                      | -    | -        | -      |
+| Topic          | Lecture              | Slides                  | Demo | Solution       | Review |
+| -------------- | -------------------- | ----------------------- | ---- | -------------- | ------ |
+| Intro to Juke  |  | [🖼️][intro-juke-slides] | -    |  | -      |
+| Morning Review |     | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
 
-[//]: # " Paste in table above >> [📺][intro-juke-lec] "
-[intro-juke-lec]: #paste-YouTube-link-here
+[juke-sol]: https://github.com/FullstackAcademy/PairProject.Juke.Solution
+[//]: # ' Paste in table above >> [📺][intro-juke-lec] '
+[intro-juke-lec]: https://youtu.be/MO2Mb-PL4hs
 [intro-juke-slides]: https://docs.google.com/presentation/d/1kg2IfIk1GaGzqXxXCA_GrZehDsXutF0gpAZqCvzt3Mo/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][am-rev-3-5] "
-[am-rev-3-5]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-3-5-ticket] "
-[am-rev-3-5-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-3-5-demo] "
+[//]: # ' Paste in table above >> [📺][am-rev-3-5] '
+[am-rev-3-5]: https://youtu.be/Z2yKl0ZZgow
+[//]: # ' Paste in table above >> [🎟][am-rev-3-5-ticket] '
+[am-rev-3-5-ticket]: https://forms.gle/1mCEEqW9AN1rJDBE6
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-5-demo] '
 [am-rev-3-5-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-3-5-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-3-5-sol] '
 [am-rev-3-5-sol]: #paste-gist-here
 
 - **You should be able to:**
