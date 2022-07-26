@@ -17,7 +17,7 @@
 | Giving and Recieving Feedback |        | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          |  | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          | -                          | [🖼️][html-slides]             | -              | -                    |
-| CSS                           |              | [🖼️][css-slides]              | [🧑‍💻][css-demo] |         |
+| CSS                           |              | [🖼️][css-slides]              |  |         |
 | Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              |  |
 
 [//]: # ' Paste in table above >> [🖼️][intro-jr-phase-slides] '
