@@ -2,11 +2,8 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: 4th of July
 
-- HOLIDAY
-
-## Day 2: Redux
+## Day 1: Redux
 
 - Pre-Work:
   - [Redux: Core Concepts][redux-core-concepts]
@@ -56,7 +53,7 @@
   - Subscribe to store changes
   - Dispatch state-changing actions to the store
 
-## Day 3: React-Redux, Thunks, `combineReducers`
+## Day 2: React-Redux, Thunks, `combineReducers`
 
 - Pre-Work:
   - [React-redux "connect" explained][connect-explained]
@@ -117,7 +114,7 @@
 
 </details>
 
-## Day 4: React Router, Readium
+## Day 3: React Router, Readium
 
 - Pre-Work:
   - [A Simple React Router v4 Tutorial][react-router-tutorial]
@@ -171,7 +168,7 @@
 
 </details>
 
-## Day 5: React Forms
+## Day 4: React Forms
 
 - Pre-Work:
   - [React: Forms][react-forms-docs]
