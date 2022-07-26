@@ -7,25 +7,28 @@
 - Pre-Work:
   - [Getting started with JSON web tokens](https://auth0.com/learn/json-web-tokens/)
 
-| Topic          | Lecture | Slides          | Demo | Solution | Review |
-| -------------- | ------- | --------------- | ---- | -------- | ------ |
-| JWT            | -       | [🖼️][jwt-slides] | -    | -        | -      |
-| Authentication | -       | -               | -    | -        | -      |
-| Morning Review | -       | -               | -    | -        | -      |
+| Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
+| -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
+| Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  |  |  |
+| Morning Review |                             | [🎟][am-rev-6-4-ticket]                             | -                                                               | -                     | -                    |
 
-[//]: # " Paste in table above >> [📺][jwt-lec] "
-[jwt-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][jwt-lec] '
+[jwt-lec]: https://youtu.be/bo9FC_bWmY0
+[bcrypt-lec]: https://youtu.be/QPpYDanzJQI
+[auth-demo-1]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-24-auth/auth-demo-1-quick
+[auth-demo-2]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/a9a312195b658bd03272b53af48881ecb12f77ac
 [jwt-slides]: https://docs.google.com/presentation/d/10xFSLjUGROHLZM1HtMsKzWKZh04UPf-UpHCu7582tsQ/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][authentication-sol] "
+[bcrypt-slides]: https://docs.google.com/presentation/d/1NWx0ASqOWVVqtmk8citCEPlBxzvzkcXe5S_anHYKc5o/edit?usp=sharing
+[//]: # ' Paste in table above >> [👾][authentication-sol] '
 [authentication-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-6-4] "
-[am-rev-6-4]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-6-4-ticket] "
-[am-rev-6-4-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-6-4-demo] "
-[am-rev-6-4-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-6-4-sol] "
-[am-rev-6-4-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [📺][am-rev-6-4] '
+[am-rev-6-4]: https://youtu.be/f4xb8_lCxaM
+[//]: # ' Paste in table above >> [🎟][am-rev-6-4-ticket] '
+[am-rev-6-4-ticket]: https://forms.gle/r8y3hUwL4iD885ZaA
+[//]: # ' Paste in table above >>  '
+[am-rev-6-4-demo]: https://github.com/FullstackAcademy/PairExercise.JWTAuthWithPasswordHashing.Solution
+[//]: # ' Paste in table above >> [👾][am-rev-6-4-sol] '
+[am-rev-6-4-sol]: https://youtu.be/9u_arxPBeRs
 
 - **You should be able to:**
   - Explain the motivation for token-based authentication
@@ -47,37 +50,37 @@
 [quick-sort-viz]: https://youtu.be/aXXWXz5rF64
 [merge-vs-quick]: https://youtu.be/es2T6KY45cA
 
-| Topic                 | Lecture | Slides                  | Demo | Solution | Review |
-| --------------------- | ------- | ----------------------- | ---- | -------- | ------ |
-| Algorithms & Analysis | -       | [🖼️][big-o-slides]       | -    | -        | -      |
-| Bubble Sort           | -       | [🖼️][bubble-sort-slides] | -    | -        | -      |
-| Merge Sort            | -       | [🖼️][merge-sort-slides]  | -    | -        |
-| Morning Review        | -       | -                       | -    | -        | -      |
+| Topic                 | Lecture               | Slides                   | Demo | Solution              | Review               |
+| --------------------- | --------------------- | ------------------------ | ---- | --------------------- | -------------------- |
+| Algorithms & Analysis |       | [🖼️][big-o-slides]       | -    | -                     | -                    |
+| Bubble Sort           |  | [🖼️][bubble-sort-slides] | -    |  | -                    |
+| Merge Sort            |   | [🖼️][merge-sort-slides]  | -    |   | |
+| Morning Review        |     | [🎟][am-rev-6-2-ticket]   | -    | -                     | -                    |
 
-[//]: # " Paste in table above >> [📺][big-o-lec] "
-[big-o-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][big-o-lec] '
+[big-o-lec]: https://youtu.be/8FkX7AS_oQQ
 [big-o-slides]: https://docs.google.com/presentation/d/1XEZTxq_PyuFhEk0f_wl_f25x1f1dDV7XAdJhfa6gp0E/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][bubble-sort-lec] "
-[bubble-sort-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][bubble-sort-lec] '
+[bubble-sort-lec]: https://youtu.be/t8Jf5ULR_R0
 [bubble-sort-slides]: https://docs.google.com/presentation/d/1uytV7plwn3bK2syjRTXGnZj2Opu7gjt2fSBzaBqdh7E/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][bubble-sort-sol] "
-[bubble-sort-sol]: ###
-[//]: # " Paste in table above >> [📺][bubble-sort-rev] "
+[//]: # ' Paste in table above >> [👾][bubble-sort-sol] '
+[bubble-sort-sol]: 01-junior-phase/day-25-algorithms/bubblesort
+[//]: # ' Paste in table above >> [📺][bubble-sort-rev] '
 [bubble-sort-rev]: ###
-[//]: # " Paste in table above >> [📺][merge-sort-lec] "
-[merge-sort-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][merge-sort-lec] '
+[merge-sort-lec]: https://youtu.be/BFo9ql7ta94
 [merge-sort-slides]: https://docs.google.com/presentation/d/1UyF-e9yBkfUBTqn9kut7S4EcjQi77xccaQAmwgospt8/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][merge-sort-sol] "
-[merge-sort-sol]: ###
-[//]: # " Paste in table above >> [📺][merge-sort-rev] "
-[merge-sort-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-6-2] "
-[am-rev-6-2]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-6-2-ticket] "
-[am-rev-6-2-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-6-2-demo] "
+[//]: # ' Paste in table above >> [👾][merge-sort-sol] '
+[merge-sort-sol]: 01-junior-phase/day-25-algorithms/merge-sort/solution
+[//]: # ' Paste in table above >> [📺][merge-sort-rev] '
+[merge-sort-rev]: https://youtu.be/dmhxeofaOmA
+[//]: # ' Paste in table above >> [📺][am-rev-6-2] '
+[am-rev-6-2]: https://youtu.be/hwF444Rj3nQ
+[//]: # ' Paste in table above >> [🎟][am-rev-6-2-ticket] '
+[am-rev-6-2-ticket]: https://forms.gle/c9RdgpkTBwrGzD5a8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-2-demo] '
 [am-rev-6-2-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-6-2-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-6-2-sol] '
 [am-rev-6-2-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -114,37 +117,41 @@
 [linked-lists-10-min]: https://youtu.be/LOHBGyK3Hbs
 [binary-search-vid]: https://youtu.be/D5SrAga1pno
 
-| Topic               | Lecture | Slides                    | Demo | Solution | Review |
-| ------------------- | ------- | ------------------------- | ---- | -------- | ------ |
-| Stacks & Queues     | -       | [🖼️][stacks-queues-slides] | -    | -        | -      |
-| Linked Lists        | -       | [🖼️][linked-lists-slides]  | -    | -        | -      |
-| Binary Search Trees | -       | [🖼️][bst-slides]           | -    | -        | -      |
-| Morning Review      | -       | -                         | -    | -        | -      |
+| Topic               | Lecture | Slides                     | Demo | Solution | Review |
+| ------------------- | ------- | -------------------------- | ---- | -------- | ------ |
+| Stacks & Queues     |  | [🖼️][stacks-queues-slides] |  | -        | -      |
+| Linked Lists        | | [🖼️][linked-lists-slides]  | | |  |
+| Binary Search Trees | | [🖼️][bst-slides]           |  |  |  |
+| Morning Review      | -       | [🎟][am-rev-6-1-ticket] | -    | -        | -      |
 
-[//]: # " Paste in table above >> [📺][stacks-queues-lec] "
-[stacks-queues-lec]: #paste-YouTube-link-here
+[sq-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-26-data-structures
+[ll-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/ll.js
+[bst-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/bst.js
+
+[//]: # ' Paste in table above >> [📺][stacks-queues-lec] '
+[stacks-queues-lec]: https://youtu.be/9gtj25AkpUs
 [stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][linked-lists-lec] "
-[linked-lists-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][linked-lists-lec] '
+[linked-lists-lec]: https://youtu.be/nKcnZWQjmiM
 [linked-lists-slides]: https://docs.google.com/presentation/d/1WGDpT3tCybZCs8s9jxeQx2Q9WyoZRrOiUtBoAG-UO_w/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][linked-lists-sol] "
-[linked-lists-sol]: ###
-[//]: # " Paste in table above >> [📺][linked-lists-rev] "
-[linked-lists-rev]: ###
-[//]: # " Paste in table above >> [📺][bst-lec] "
-[bst-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [👾][linked-lists-sol] '
+[linked-lists-sol]: https://github.com/FullstackAcademy/PairExercise.LinkedList.Solution
+[//]: # ' Paste in table above >> [📺][linked-lists-rev] '
+[linked-lists-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti
+[//]: # ' Paste in table above >> [📺][bst-lec] '
+[bst-lec]: https://youtu.be/7jRv6m2YV6E
 [bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
-[//]: # " Paste in table above >> [👾][bst-sol] "
-[bst-sol]: ###
-[//]: # " Paste in table above >> [📺][bst-rev] "
-[bst-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-6-1] "
+[//]: # ' Paste in table above >> [👾][bst-sol] '
+[bst-sol]: https://github.com/FullstackAcademy/PairExercise.BinarySearchTree.Solution
+[//]: # ' Paste in table above >> [📺][bst-rev] '
+[bst-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
+[//]: # ' Paste in table above >> [📺][am-rev-6-1] '
 [am-rev-6-1]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-6-1-ticket] "
-[am-rev-6-1-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-6-1-demo] "
+[//]: # ' Paste in table above >> [🎟][am-rev-6-1-ticket] '
+[am-rev-6-1-ticket]: https://forms.gle/tPyAJmQDgWyE5rCG7
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-1-demo] '
 [am-rev-6-1-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-6-1-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-6-1-sol] '
 [am-rev-6-1-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -167,32 +174,32 @@
 
 - Pre-Work: None!
 
-| Topic                       | Lecture | Slides                       | Demo | Solution | Review |
-| --------------------------- | ------- | ---------------------------- | ---- | -------- | ------ |
+| Topic                       | Lecture | Slides                        | Demo | Solution | Review |
+| --------------------------- | ------- | ----------------------------- | ---- | -------- | ------ |
 | Hash Tables                 | -       | [🖼️][hash-table-slides]       | -    | -        | -      |
 | Algorithmic Problem Solving | -       | [🖼️][algorithmic-prob-slides] | -    | -        | -      |
-| Search &&! Destroy          | -       | -                            | -    | -        | -      |
-| Morning Review              | -       | -                            | -    | -        | -      |
+| Search &&! Destroy          | -       | -                             | -    | -        | -      |
+| Morning Review              | -       | -                             | -    | -        | -      |
 
-[//]: # " Paste in table above >> [📺][hash-table-lec] "
+[//]: # ' Paste in table above >> [📺][hash-table-lec] '
 [hash-table-lec]: #paste-YouTube-link-here
 [hash-table-slides]: https://docs.google.com/presentation/d/1y6ZqABDfxA6tNuAAhC-PoSHFaJPEK0HO-ys113o5CzY/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][hash-table-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][hash-table-demo] '
 [hash-table-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][algorithmic-prob-lec] "
+[//]: # ' Paste in table above >> [📺][algorithmic-prob-lec] '
 [algorithmic-prob-lec]: #paste-YouTube-link-here
 [algorithmic-prob-slides]: https://docs.google.com/presentation/d/1-JH0S0ZdYgaLWtofxyAfGvm9vHrDzIHD-r0-CGJjrEA/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][algorithmic-prob-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][algorithmic-prob-demo] '
 [algorithmic-prob-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][search-destroy-sol] "
+[//]: # ' Paste in table above >> [👾][search-destroy-sol] '
 [search-destroy-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-6-3] "
+[//]: # ' Paste in table above >> [📺][am-rev-6-3] '
 [am-rev-6-3]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-6-3-ticket] "
+[//]: # ' Paste in table above >> [🎟][am-rev-6-3-ticket] '
 [am-rev-6-3-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-6-3-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-3-demo] '
 [am-rev-6-3-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-6-3-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-6-3-sol] '
 [am-rev-6-3-sol]: #paste-gist-here
 
 ## Day 5: Final Day of Junior Phase!
@@ -203,9 +210,9 @@
 | --------------------- | ------- | ------ | -------- | ------ |
 | Intro to Senior Phase | -       | -      | -        | -      |
 
-[//]: # " Paste in table above >> [📺][senior-intro-lec] "
+[//]: # ' Paste in table above >> [📺][senior-intro-lec] '
 [senior-intro-lec]: #replace-with-YouTube-link
-[//]: # " Paste in table above >> [🖼️][senior-intro-slides] "
+[//]: # ' Paste in table above >> [🖼️][senior-intro-slides] '
 [senior-intro-slides]: #link-to-slide-deck-here
 
 [Continue to 📆 Week 7](WEEK7.md)
