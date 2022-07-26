@@ -2,7 +2,9 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: Express, Handling Asynchronous Operations (`async`/`await`)
+## Day 1: Holiday!
+
+## Day 2: Express, Intro to DB and SQL
 
 - Pre-Work:
   - [📺 Web Dev Simplified: What is an API?][what-is-an-api]
@@ -10,48 +12,46 @@
   - 📤 Download an API development tool (your choice) 📥
     - [Postman](https://www.postman.com/)
     - [Insomnia](https://insomnia.rest/)
-  - [📖 Async/Await: The Hero Javascript Deserved][twilio-async-await]
+  - [📖 Schema Design Overview][schema-design]
 
+[schema-design]: https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9
 [what-is-an-api]: https://youtu.be/tgbRY96q-KM
 [codecademy-be-web-arch]: https://www.codecademy.com/articles/back-end-architecture
 [twilio-async-await]: https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html
 
-| Topic                          | Lecture | Slides                  | Demo | Solution | Review |
-| ------------------------------ | ------- | ----------------------- | ---- | -------- | ------ |
-| HTTP and Express 101           | -       | [🖼️][express-101-slides] | -    | -        | -      |
-| Express 201 (Wizard News Pt 1) | -       | [🖼️][express-201-slides] | -    | -        | -      |
-| `async`/`await`                | -       | [🖼️][async-await-slides] | -    | -        | -      |
-| Morning Review                 | -       | -                       | -    | -        | -      |
+| Topic                           | Lecture               | Slides                   | Demo                   | Solution                   | Review                     |
+| ------------------------------- | --------------------- | ------------------------ | ---------------------- | -------------------------- | -------------------------- |
+| Express 201 (Wizard News Pt 1)  | | [🖼️][express-201-slides] | |  |  |
+| Intro to Databases & PostgreSQL | -                     | [🖼️][db-slides]          | -                      | -                          | -                          |
+| Intro to SQL                    |        | [🖼️][sql-slides]         |         | -                          | -                          |
+| Morning Review                  |      | [🎟][am-rev-2-1-ticket]   |  |       | -                          |
 
-[//]: # " Paste in table above >> [📺][express-101-lec] "
-[express-101-lec]: #paste-YouTube-link-here
-[express-101-slides]: https://docs.google.com/presentation/d/17LTfUVqbK1bz9fMaejOvxebxit_2IomBnAxe7kqYK-E/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][express-101-demo] "
-[express-101-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][express-201-lec] "
-[express-201-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][express-201-lec] '
+[express-201-lec]: https://youtu.be/Mg6O-1um10w
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][express-201-demo] "
-[express-201-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][express-wizard-1-sol] "
-[express-wizard-1-sol]: ###
-[//]: # " Paste in table above >> [📺][express-wizard-1-rev] "
-[express-wizard-1-rev]: ###
-[//]: # " Paste in table above >> [📺][async-await-lec] "
-[async-await-lec]: #paste-YouTube-link-here
-[async-await-slides]: https://docs.google.com/presentation/d/1lyOQtOBzNPx5gyc7hupZHdt-qn8XmhIN-xYRQhFal98/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][async-await-demo] "
-[async-await-demo]: ###
-[//]: # " Paste in table above >> [👾][async-await-sol] "
-[async-await-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-2-1] "
-[am-rev-2-1]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-2-1-ticket] "
-[am-rev-2-1-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-2-1-demo] "
-[am-rev-2-1-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-2-1-sol] "
-[am-rev-2-1-sol]: #paste-gist-here
+[//]: # ' Paste in table above >> [🧑‍💻][express-201-demo] '
+[express-201-demo]: 01-junior-phase/day-6-express-sql/express201
+[//]: # ' Paste in table above >> [👾][express-wizard-1-sol] '
+[express-wizard-1-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part1
+[//]: # ' Paste in table above >> [📺][express-wizard-1-rev] '
+[express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4
+[//]: # ' Paste in table above >> [🖼️][db-slides] '
+[db-slides]: https://docs.google.com/presentation/d/13VsDAKOCCJulTYtWSbg0gyDX4sqMRWaNVphE0okLmPM
+[//]: # ' Paste in table above >> [🖼️][sql-slides] '
+[sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4
+[//]: # ' Paste in table above >> [📺][sql-lec] '
+[sql-lec]: https://youtu.be/plKBZjg_2xw
+[sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4/edit?usp=sharing
+[//]: # ' Paste in table above >> [🧑‍💻][sql-demo] '
+[sql-demo]: 01-junior-phase/day-6-express-sql/intro-sql
+[//]: # ' Paste in table above >> [📺][am-rev-2-1] '
+[am-rev-2-1]: https://youtu.be/RUZp09FkLUs
+[//]: # ' Paste in table above >> [🎟][am-rev-2-1-ticket] '
+[am-rev-2-1-ticket]: https://forms.gle/SwAmJ6bae7BcApoi8
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-1-demo] '
+[am-rev-2-1-demo]: 01-junior-phase/day-6-express-sql/morning-review
+[//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
+[am-rev-2-1-sol]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/exit-ticket-solutions/06-sql.md
 
 - **You should be able to:**
   - Describe the role of a client, a server, and HTTP
@@ -61,49 +61,13 @@
   - Use `module.exports` and `require` to create modular applications
   - Handle asynchronous code and Promises with `async`/`await`
 
-**<details><summary>📎 Extra Resources:</summary>**
+**<details><summary>📎 Extra Resources EXPRESS :</summary>**
 
 - [📖 A Simple Explanation of Express Middleware][express-middleware]
 - [📖 Nodejs in Flames][nodejs-flames]
 
 [express-middleware]: https://medium.com/@agoiabeladeyemi/a-simple-explanation-of-express-middleware-c68ea839f498
 [nodejs-flames]: https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4
-
-</details>
-
-## Day 2: Databases, SQL, Schema Design
-
-- Pre-Work:
-  - [📖 Schema Design Overview][schema-design]
-
-[schema-design]: https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9
-
-| Topic                           | Lecture | Slides             | Demo | Solution | Review |
-| ------------------------------- | ------- | ------------------ | ---- | -------- | ------ |
-| Intro to Databases & PostgreSQL | -       | [🖼️][db-slides]     | -    | -        | -      |
-| Intro to SQL                    | -       | [🖼️][sql-slides]    | -    | -        | -      |
-| Schema Design                   | -       | [🖼️][schema-slides] | -    | -        | -      |
-| Morning Review                  | -       | -                  | -    | -        | -      |
-
-[//]: # " Paste in table above >> [📺][db-lec] "
-[db-lec]: #paste-YouTube-link-here
-[db-slides]: https://docs.google.com/presentation/d/13VsDAKOCCJulTYtWSbg0gyDX4sqMRWaNVphE0okLmPM/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][sql-lec] "
-[sql-lec]: #paste-YouTube-link-here
-[sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][sql-demo] "
-[sql-demo]: #link-demo-here
-[//]: # " Paste in table above >> [📺][schema-lec] "
-[schema-lec]: #paste-YouTube-link-here
-[schema-slides]: https://docs.google.com/presentation/d/1P1z0qn5l5H2NCPp6xg7xDle_0NeDc8Go9eU1IJ_Hbnk/edit?usp=sharing
-[//]: # " Paste in table above >> [📺][am-rev-2-2] "
-[am-rev-2-2]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-2-2-ticket] "
-[am-rev-2-2-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-2-2-demo] "
-[am-rev-2-2-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-2-2-sol] "
-[am-rev-2-2-sol]: #paste-gist-here
 
 - **You should be able to:**
   - Explain what a database is, and why you would use one
@@ -112,7 +76,9 @@
   - Articulate what a foreign key is, and why you would use one
   - Explain the differences between a 1-to-1, 1-to-many, and many-to-many relationship
 
-**<details><summary>📎 Extra Resources:</summary>**
+</details>
+
+**<details><summary>📎 Extra Resources SQL:</summary>**
 
 - [Normalization][normalization]
 - [SQL-Relationships][sql-relationships]
@@ -137,37 +103,37 @@
 
 [pg-docs]: https://node-postgres.com/
 
-| Topic                                   | Lecture | Slides                      | Demo | Solution | Review |
-| --------------------------------------- | ------- | --------------------------- | ---- | -------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) | -       | [🖼️][node-postgres-slides]   | -    | -        | -      |
-| RESTful Routing (Wizard News Pt 3)      | -       | [🖼️][restful-express-slides] | -    | -        | -      |
-| Morning Review                          | -       | -                           | -    | -        | -      |
+| Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
+| --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
+| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   |   |  | -      |
+| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | -      |
+| Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
-[//]: # " Paste in table above >> [📺][node-postgres-lec] "
-[node-postgres-lec]: #paste-YouTube-link-here
-[node-postgres-slides]: https://docs.google.com/presentation/d/1oUojPIxCeJcGP0iPoX01XdBdJyBTI4sYuFPaMjRlPdE/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][node-postgres-demo] "
-[node-postgres-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][wizard-news-2-sol] "
-[wizard-news-2-sol]: ###
-[//]: # " Paste in table above >> [📺][wizard-news-2-rev] "
+[//]: # ' Paste in table above >> [📺][node-postgres-lec] '
+[node-postgres-lec]: https://youtu.be/-vSl7dyKfN4
+[node-postgres-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/node-postgres.pdf
+[//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
+[node-postgres-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/pg-demo
+[//]: # ' Paste in table above >> [👾][wizard-news-2-sol] '
+[wizard-news-2-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part2
+[//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
 [wizard-news-2-rev]: ###
-[//]: # " Paste in table above >> [📺][restful-express-lec] "
-[restful-express-lec]: #paste-YouTube-link-here
-[restful-express-slides]: https://docs.google.com/presentation/d/1O_hFzWApi9_mtLuCuvpkc4jna90JTOrfkNpJ5usmuVs/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][restful-express-demo] "
-[restful-express-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][wizard-news-3-sol] "
-[wizard-news-3-sol]: ###
-[//]: # " Paste in table above >> [📺][wizard-news-3-rev] "
+[//]: # ' Paste in table above >> [📺][restful-express-lec] '
+[restful-express-lec]: https://youtu.be/CFK8Gefmivk
+[restful-express-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/express-routes-and-rest.pdf
+[//]: # ' Paste in table above >> [🧑‍💻][restful-express-demo] '
+[restful-express-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/express-routes-REST
+[//]: # ' Paste in table above >> [👾][wizard-news-3-sol] '
+[wizard-news-3-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part3
+[//]: # ' Paste in table above >> [📺][wizard-news-3-rev] '
 [wizard-news-3-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-2-3] "
-[am-rev-2-3]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-2-3-ticket] "
-[am-rev-2-3-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-2-3-demo] "
+[//]: # ' Paste in table above >> [📺][am-rev-2-3] '
+[am-rev-2-3]: https://youtu.be/WtAAyyjae68
+[//]: # ' Paste in table above >> [🎟][am-rev-2-3-ticket] '
+[am-rev-2-3-ticket]: https://forms.gle/SdRcKefq4qfYA1376
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-3-demo] '
 [am-rev-2-3-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-2-3-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-2-3-sol] '
 [am-rev-2-3-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -204,36 +170,35 @@
 
 - Pre-Work:
   - [Sequelize An Introduction][sequelize-intro]
-  - [Sequelize: Getting Started][sequelize-guide]
-    - **Disclaimer:** Some syntax in the FSA Sequelize Guides is **deprecated** (e.g. `findById`). **_Always_** check the version in your `package.json` file and use the appropriate syntax for that specific version.
 
 [sequelize-intro]: https://youtu.be/qsDvJrGMSUY
-[sequelize-guide]: https://sequelize-guides.netlify.app/getting-started/
 
-| Topic                     | Lecture | Slides          | Demo | Solution | Review |
-| ------------------------- | ------- | --------------- | ---- | -------- | ------ |
-| Intro to ORMs (Sequelize) | -       | [🖼️][orm-slides] | -    | -        | -      |
-| Wikistack 1               | -       | -               | -    | -        | -      |
-| Morning Review            | -       | -               | -    | -        | -      |
+| Topic                     | Lecture                       | Slides           | Demo           | Solution              | Review                |
+| ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
+| Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] |  |        | -                     |
+| Wikistack 1               | -                             | -                | -              | | |
+| Morning Review            |            | -                | -              | -                     | -                     |
 
-[//]: # " Paste in table above >> [📺][orm-lec] "
-[orm-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][orm-lec] '
+[orm-lec]: https://youtu.be/vcE47KwFOLc
 [orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][orm-demo] "
-[orm-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][orm-sol] "
-[orm-sol]: ###link-sequelize-lab-solution-here
-[//]: # " Paste in table above >> [👾][wikistack-1-sol] "
-[wikistack-1-sol]: ###
-[//]: # " Paste in table above >> [📺][wikistack-1-rev] "
-[wikistack-1-rev]: ###
-[//]: # " Paste in table above >> [📺][am-rev-2-4] "
-[am-rev-2-4]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-2-4-ticket] "
+[//]: # ' Paste in table above >> [🧑‍💻][orm-demo] '
+[orm-demo]: 01-junior-phase/day-8-orm-sequelize/sequelize-demo
+[//]: # ' Paste in table above >> [📺][orm-lec-2] '
+[orm-lec-2]: https://youtu.be/gX6ZmMyoMrg
+[//]: # ' Paste in table above >> [👾][orm-sol] '
+[orm-sol]: https://github.com/FullstackAcademy/Lab.Sequelize-First-Contact/tree/solution
+[//]: # ' Paste in table above >> [👾][wikistack-1-sol] '
+[wikistack-1-sol]: https://github.com/FullstackAcademy/Solution.Wikistack1
+[//]: # ' Paste in table above >> [📺][wikistack-1-rev] '
+[wikistack-1-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjZtJBNy8q-rajIBINW9t8
+[//]: # ' Paste in table above >> [📺][am-rev-2-4] '
+[am-rev-2-4]: https://youtu.be/0bfws2xt1JQ
+[//]: # ' Paste in table above >> [🎟][am-rev-2-4-ticket] '
 [am-rev-2-4-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-2-4-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-4-demo] '
 [am-rev-2-4-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-2-4-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-2-4-sol] '
 [am-rev-2-4-sol]: #paste-gist-here
 
 - **You should be able to:**
@@ -263,26 +228,26 @@
 [sequelize-methods]: https://sequelize-guides.netlify.com/instance-and-class-methods/
 [express-error]: https://expressjs.com/en/guide/error-handling.html
 
-| Topic                            | Lecture | Slides                   | Demo | Solution | Review |
-| -------------------------------- | ------- | ------------------------ | ---- | -------- | ------ |
-| Rounding Out Express & Sequelize | -       | [🖼️][rounding-out-slides] | -    | -        | -      |
-| Wikistack 2                      | -       | -                        | -    | -        | -      |
-| Morning Review                   | -       | -                        | -    | -        | -      |
+| Topic                            | Lecture                | Slides                    | Demo                        | Solution              | Review |
+| -------------------------------- | ---------------------- | ------------------------- | --------------------------- | --------------------- | ------ |
+| Rounding Out Express & Sequelize |  | [🖼️][rounding-out-slides] |  | -                     | -      |
+| Wikistack 2                      | -                      | -                         | -                           |  | -      |
+| Morning Review                   |      | [🎟][am-rev-2-5-ticket]    | -                           | -                     | -      |
 
-[//]: # " Paste in table above >> [📺][rounding-out-lec] "
-[rounding-out-lec]: #paste-YouTube-link-here
+[//]: # ' Paste in table above >> [📺][rounding-out-lec] '
+[rounding-out-lec]: https://youtu.be/40-AVLVUZIo
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
-[//]: # " Paste in table above >> [🧑‍💻][rounding-out-lec-demo] "
-[rounding-out-lec-demo]: ###
-[//]: # " Paste in table above >> [👾][wikistack-2-sol] "
-[wikistack-2-sol]: ###
-[//]: # " Paste in table above >> [📺][am-rev-2-5] "
-[am-rev-2-5]: #paste-YouTube-link-here
-[//]: # " Paste in table above >> [🎟][am-rev-2-5-ticket] "
-[am-rev-2-5-ticket]: #paste-google-form-link-here
-[//]: # " Paste in table above >> [🧑‍💻][am-rev-2-5-demo] "
+[//]: # ' Paste in table above >> [🧑‍💻][rounding-out-lec-demo] '
+[rounding-out-lec-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-9-express-sequlize
+[//]: # ' Paste in table above >> [👾][wikistack-2-sol] '
+[wikistack-2-sol]: https://github.com/FullstackAcademy/Solution.Wikistack2
+[//]: # ' Paste in table above >> [📺][am-rev-2-5] '
+[am-rev-2-5]: https://youtu.be/AMZxiAtq8KY
+[//]: # ' Paste in table above >> [🎟][am-rev-2-5-ticket] '
+[am-rev-2-5-ticket]: https://forms.gle/x9FVcEtbuDyrxGBcA
+[//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-5-demo] '
 [am-rev-2-5-demo]: #link-demo-here
-[//]: # " Paste in table above >> [👾][am-rev-2-5-sol] "
+[//]: # ' Paste in table above >> [👾][am-rev-2-5-sol] '
 [am-rev-2-5-sol]: #paste-gist-here
 
 - **You should be able to:**
