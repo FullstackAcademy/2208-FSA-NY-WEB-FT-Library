@@ -2,55 +2,58 @@
 
 [⬅ Go Back](README.md)
 
-| Topic | Link | Due by | Solution |
-| ----- | ---- | ------ | -------- |
+| Topic          | Link               | Due by                  | Solution                                  |
+| -------------- | ------------------ | ----------------------- | ----------------------------------------- |
+| DOM            |    | Mon 6-20 @ 6:00 ET      |                    |
+| Node & Express |  | Sun 6-26 6:00 ET        |         |
+| Pillars        |      | _IN CLASS_ 6-28 6:00 ET |                      |
+| React          |    | Sun 7-3 6:00 ET         |  |
+| Redux          |    | Sun 7-10 @ 6:00 ET      | -                                         |
 
-\*\* Will be added when opened
+<!--           | JPFP               | [🔗][jpfp]                 | -        | -   | -->
+<!--           | Data Structures    | [🔗][ckpt-data-structures] | -        | -   | -->
 
-<!-- | DOM | [🔗][ckpt-dom] | - | - | -->
-<!-- | Express & Sequelize | [🔗][ckpt-express-sequelize] | - | - | -->
-<!-- | Pillars | [🔗][pillars] | - | - | -->
-<!-- | React | [🔗][ckpt-react] | - | - | -->
-<!-- | Redux | [🔗][ckpt-redux] | - | - | -->
-<!-- | JPFP | [🔗][jpfp] | - | - | -->
-<!-- | Data Structures | [🔗][ckpt-data-structures] | - | - | -->
-
-[//]: # " Open checkpoint solutions the day after it is due [depending on extensions] "
+[//]: # ' Open checkpoint solutions the day after it is due [depending on extensions] '
 [ckpt-dom]: https://github.com/FullstackAcademy/Checkpoint.DOM
-[//]: # " Paste in table above >> [👾][ckpt-dom-sol] "
-[ckpt-dom-sol]: #tba
-[ckpt-express-sequelize]: https://github.com/FullstackAcademy/Checkpoint-Express-Sequelize-B
-[//]: # " Paste in table above >> [👾][ckpt-express-sequelize-sol] "
-[ckpt-express-sequelize-sol]: #tbd
-[pillars]: #tba
-[//]: # " Paste in table above >> [📺][pillars-rev] "
-[pillars-rev]: #tba
+[//]: # ' Paste in table above >> [👾][ckpt-dom-sol] '
+[ckpt-dom-sol]: https://github.com/FullstackAcademy/Checkpoint.DOM.Solution
+[ckpt-express]: https://github.com/FullstackAcademy/Checkpoint-Node-Express
+[//]: # ' Paste in table above >> [👾][ckpt-express-sequelize-sol] '
+[ckpt-express-sequelize-sol]: https://github.com/FullstackAcademy/Checkpoint.Node-Express.Solution
+[pillars]: https://github.com/FullstackAcademy/Checkpoint-Pillars-v2
+[//]: # ' Paste in table above >> [📺][pillars-rev] '
+[pillars-rev]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhKph-MuCSKujl_MVved1OWC
 [ckpt-react]: https://github.com/FullstackAcademy/Checkpoint-React-v2
-[//]: # " Paste in table above >> [👾][ckpt-react-sol] "
-[ckpt-react-sol]: #tba
+[//]: # ' Paste in table above >> [👾][ckpt-react-sol] '
+[ckpt-react-sol]: https://github.com/FullstackAcademy/Checkpoint-React-v2-Solution
+[//]: # ' Paste in table above >> [📺][ckpt-react-rev] '
+[ckpt-react-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmUG8GiGcfoy2in0z3NrR3p
 [ckpt-redux]: https://github.com/FullstackAcademy/Checkpoint-Redux
-[//]: # " Paste in table above >> [👾][ckpt-redux-sol] "
+[//]: # ' Paste in table above >> [👾][ckpt-redux-sol] '
 [ckpt-redux-sol]: #tba
 [jpfp]: #tba
 [ckpt-data-structures]: https://github.com/FullstackAcademy/Checkpoint-Data-Structures
-[//]: # " Paste in table above >> [👾][ckpt-data-structures-sol] "
+[//]: # ' Paste in table above >> [👾][ckpt-data-structures-sol] '
 [ckpt-data-structures-sol]: #tba
 
-## 📚 Supplemental Study Materials
+<!-- ## 📚 Supplemental Study Materials -->
 
-| Topic | Link | Solution |
+<!-- | Topic | Link | Solution |
 | ----- | ---- | -------- |
 
-\*\* Will be added when opened
+\*\* Will be added when opened -->
 
 <!-- | Study Saturday: Express & Sequelize | [🔗][ss-express-sequelize] | [👾][ss-express-sequelize-sol] | -->
+
 <!-- | Study Saturday: React | [🔗][ss-react] | [👾][ss-react-sol] | -->
+
 <!-- | Cody's Cafe | [🔗][codys-cafe-repo] | [👾][codys-cafe-sol] | -->
+
 <!-- | Cody's Quiz | [🔗][codys-quiz-repo] | [👾][codys-quiz-sol] | -->
 <!-- | Goodie Bag | [🔗][goodie-bag] | - | -->
 <!-- | Study Saturday: Fullstack Flow | [🔗][ss-fullstack] | [👾][ss-fullstack-sol] | -->
 
-[//]: # " Open Study Saturday material the following Monday "
+[//]: # ' Open Study Saturday material the following Monday '
 [ss-express-sequelize]: https://github.com/FullstackAcademy/Study-Saturday-Express-Sequelize
 [ss-express-sequelize-sol]: #tba
 [ss-react]: https://github.com/FullstackAcademy/Study-Saturday-React
@@ -90,4 +93,5 @@
 
 </details>
 -->
-___
+
+---
