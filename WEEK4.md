@@ -228,7 +228,7 @@
 
 </details>
 
-## Day 5: Sockets
+## Day 5: Course Review, Junior Phase Final Project (JPFP)
 
 | Topic          | Lecture | Slides | Demo | Solution | Review |
 | -------------- | ------- | ------ | ---- | -------- | ------ |
