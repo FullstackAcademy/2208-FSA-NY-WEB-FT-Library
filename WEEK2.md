@@ -46,7 +46,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-2-1] '
 [am-rev-2-1]: https://youtu.be/RUZp09FkLUs
 [//]: # ' Paste in table above >> [🎟][am-rev-2-1-ticket] '
-[am-rev-2-1-ticket]: https://forms.gle/SwAmJ6bae7BcApoi8
+[am-rev-2-1-ticket]: https://forms.gle/6gUs7S4w4p2BSZMn9
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-1-demo] '
 [am-rev-2-1-demo]: 01-junior-phase/day-6-express-sql/morning-review
 [//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
@@ -129,7 +129,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-2-3] '
 [am-rev-2-3]: https://youtu.be/WtAAyyjae68
 [//]: # ' Paste in table above >> [🎟][am-rev-2-3-ticket] '
-[am-rev-2-3-ticket]: https://forms.gle/SdRcKefq4qfYA1376
+[am-rev-2-3-ticket]: https://forms.gle/gxwRPSATggrpVSv57
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-3-demo] '
 [am-rev-2-3-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-3-sol] '
@@ -176,7 +176,7 @@
 | ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
 | Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] |  |        | -                     |
 | Wikistack 1               | -                             | -                | -              | | |
-| Morning Review            |            | -                | -              | -                     | -                     |
+| Morning Review            |            | [🎟][am-rev-2-4-ticket]                | -              | -                     | -                     |
 
 [//]: # ' Paste in table above >> [📺][orm-lec] '
 [orm-lec]: https://youtu.be/vcE47KwFOLc
@@ -194,7 +194,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-2-4] '
 [am-rev-2-4]: https://youtu.be/0bfws2xt1JQ
 [//]: # ' Paste in table above >> [🎟][am-rev-2-4-ticket] '
-[am-rev-2-4-ticket]: #paste-google-form-link-here
+[am-rev-2-4-ticket]: https://forms.gle/E8RdHnAGzMC1pKiA9
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-4-demo] '
 [am-rev-2-4-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-4-sol] '
@@ -243,7 +243,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-2-5] '
 [am-rev-2-5]: https://youtu.be/AMZxiAtq8KY
 [//]: # ' Paste in table above >> [🎟][am-rev-2-5-ticket] '
-[am-rev-2-5-ticket]: https://forms.gle/x9FVcEtbuDyrxGBcA
+[am-rev-2-5-ticket]: https://forms.gle/tXUy4wa2uesrxto88
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-5-demo] '
 [am-rev-2-5-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-5-sol] '
@@ -262,7 +262,6 @@
 | Review         |            | -                            | -    | -                    | -      |
 | Cody's Cafe    |  | [🖼️][pillars-ov] Pillars Doc | -    |  | -      |
 
-[//]: # ' Paste in table above >> [🎟][am-rev-3-1-ticket] '
 [am-rev-3-1-ticket]: #paste-google-form-link-here
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
 [am-rev-3-1-demo]: #link-demo-here
