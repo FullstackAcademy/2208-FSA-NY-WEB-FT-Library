@@ -32,7 +32,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-3-3] '
 [am-rev-3-3]: https://youtu.be/RBwkH0fKU2c
 [//]: # ' Paste in table above >> [🎟][am-rev-3-3-ticket] '
-[am-rev-3-3-ticket]: https://forms.gle/pHmdBQP6Qu2dSZrY8
+[am-rev-3-3-ticket]: https://forms.gle/5dVJyBB4pjyLsFBm7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-3-demo] '
 [am-rev-3-3-demo]: /01-junior-phase/day-13-react/morning-rev
 [//]: # ' Paste in table above >> [👾][am-rev-3-3-sol] '
@@ -110,7 +110,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-3-4] '
 [am-rev-3-4]: https://youtu.be/U5yiIVQ_gxk
 [//]: # ' Paste in table above >> [🎟][am-rev-3-4-ticket] '
-[am-rev-3-4-ticket]: https://forms.gle/GdumZxXvT6fJDsko7
+[am-rev-3-4-ticket]: https://forms.gle/RakYEn4E9NufBiHR7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-4-demo] '
 [am-rev-3-4-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-3-4-sol] '
@@ -189,7 +189,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-3-5] '
 [am-rev-3-5]: https://youtu.be/Z2yKl0ZZgow
 [//]: # ' Paste in table above >> [🎟][am-rev-3-5-ticket] '
-[am-rev-3-5-ticket]: https://forms.gle/1mCEEqW9AN1rJDBE6
+[am-rev-3-5-ticket]: https://forms.gle/FCzjWPctovGvFsSq7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-5-demo] '
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-3-5-sol] '
