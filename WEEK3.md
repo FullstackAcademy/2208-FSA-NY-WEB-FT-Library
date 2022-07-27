@@ -2,31 +2,7 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1
-
-| Topic          | Lecture                           | Slides                       | Demo | Solution             | Review |
-| -------------- | --------------------------------- | ---------------------------- | ---- | -------------------- | ------ |
-| Morning Review | -                                 | -                            | -    | -                    | -      |
-| Review         |            | -                            | -    | -                    | -      |
-| Cody's Cafe    |  | [🖼️][pillars-ov] Pillars Doc | -    |  | -      |
-
-[//]: # ' Paste in table above >> [🎟][am-rev-3-1-ticket] '
-[am-rev-3-1-ticket]: #paste-google-form-link-here
-[//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
-[am-rev-3-1-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [👾][am-rev-3-1-sol] '
-[am-rev-3-1-sol]: #paste-gist-here
-[//]: # ' Paste in table above >> [👾][codys-cafe-sol] '
-[codys-cafe-sol]: https://github.com/FullstackAcademy/codys-cafe-solution
-[//]: # ' Paste in table above >> [📺][am-rev-3-1] '
-[am-rev-3-1]: #paste-YouTube-link-here
-[//]: # ' Paste in table above >> [📺][pillars-ov] '
-[pillars-ov]: https://youtu.be/2mMLpl-nif0
-[pillars-doc]: 01-junior-phase/day-11-pillars/Pillars-Notes.md
-[//]: # ' Paste in table above >> [📺][express-seq-rev] '
-[express-seq-rev]: https://youtu.be/5SOO-qdiy40
-
-## Day 2: Pillars
+## Day 1-2: Pillars
 
 - To prepare, see the "📚 Supplemental Study Materials" section at the top of this repo.
 - _Thoroughly_ read the [Academic Integrity Policy](01-junior-phase/academic-integrity-policy.md), which includes allowed resources.
