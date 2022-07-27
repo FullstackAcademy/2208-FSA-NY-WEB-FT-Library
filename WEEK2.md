@@ -2,9 +2,8 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: Holiday!
 
-## Day 2: Express, Intro to DB and SQL
+## Day 1: Express, Intro to DB and SQL
 
 - Pre-Work:
   - [📺 Web Dev Simplified: What is an API?][what-is-an-api]
@@ -96,7 +95,7 @@
 
 </details>
 
-## Day 3: Node-Postgres (`pg`), Express `Router()`
+## Day 2: Node-Postgres (`pg`), Express `Router()`
 
 - Pre-Work:
   - [node-postgres (Sections: "Welcome" and "Queries")][pg-docs]
