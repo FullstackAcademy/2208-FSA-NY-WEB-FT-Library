@@ -24,7 +24,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-6-4] '
 [am-rev-6-4]: https://youtu.be/f4xb8_lCxaM
 [//]: # ' Paste in table above >> [🎟][am-rev-6-4-ticket] '
-[am-rev-6-4-ticket]: https://forms.gle/r8y3hUwL4iD885ZaA
+[am-rev-6-4-ticket]: https://forms.gle/AjPg2BnaY83wTPGu7
 [//]: # ' Paste in table above >>  '
 [am-rev-6-4-demo]: https://github.com/FullstackAcademy/PairExercise.JWTAuthWithPasswordHashing.Solution
 [//]: # ' Paste in table above >> [👾][am-rev-6-4-sol] '
@@ -77,7 +77,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-6-2] '
 [am-rev-6-2]: https://youtu.be/hwF444Rj3nQ
 [//]: # ' Paste in table above >> [🎟][am-rev-6-2-ticket] '
-[am-rev-6-2-ticket]: https://forms.gle/c9RdgpkTBwrGzD5a8
+[am-rev-6-2-ticket]: https://forms.gle/gipvXkZvcCCzNF3d6
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-2-demo] '
 [am-rev-6-2-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-6-2-sol] '
@@ -148,7 +148,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-6-1] '
 [am-rev-6-1]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-6-1-ticket] '
-[am-rev-6-1-ticket]: https://forms.gle/tPyAJmQDgWyE5rCG7
+[am-rev-6-1-ticket]: https://forms.gle/mx9Diuym833pg2tE8
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-1-demo] '
 [am-rev-6-1-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-6-1-sol] '
@@ -179,7 +179,7 @@
 | Hash Tables                 | -       | [🖼️][hash-table-slides]       | -    | -        | -      |
 | Algorithmic Problem Solving | -       | [🖼️][algorithmic-prob-slides] | -    | -        | -      |
 | Search &&! Destroy          | -       | -                             | -    | -        | -      |
-| Morning Review              | -       | -                             | -    | -        | -      |
+| Morning Review              | -       | [🎟][am-rev-6-3-ticket]                             | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][hash-table-lec] '
 [hash-table-lec]: #paste-YouTube-link-here
@@ -196,7 +196,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-6-3] '
 [am-rev-6-3]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-6-3-ticket] '
-[am-rev-6-3-ticket]: #paste-google-form-link-here
+[am-rev-6-3-ticket]: [#paste-google-form-link-here](https://forms.gle/vvBKNAsMoNNFqw698)
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-3-demo] '
 [am-rev-6-3-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-6-3-sol] '
