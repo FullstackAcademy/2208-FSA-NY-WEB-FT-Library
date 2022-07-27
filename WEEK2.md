@@ -165,7 +165,7 @@
 
 </details>
 
-## Day 4: ORM (Sequelize), WikiStack 1
+## Day 3: ORM (Sequelize), WikiStack 1
 
 - Pre-Work:
   - [Sequelize An Introduction][sequelize-intro]
@@ -216,7 +216,7 @@
 
 </details>
 
-## Day 5: WikiStack 2
+## Day 4: WikiStack 2
 
 - Pre-Work:
   - [Sequelize: Eager Loading][sequelize-eager]
