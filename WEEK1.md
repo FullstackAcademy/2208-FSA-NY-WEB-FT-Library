@@ -44,7 +44,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-1-1] '
 [am-rev-1-1]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-1-1-ticket] '
-[am-rev-1-1-ticket]: https://forms.gle/zvEfpJLK4LvFobaq7
+[am-rev-1-1-ticket]: https://forms.gle/KgJYaVAC4r9oVLRR8
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-1-demo] '
 [am-rev-1-1-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-1-1-sol] '
@@ -107,7 +107,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-1-2] '
 [am-rev-1-2]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-1-2-ticket] '
-[am-rev-1-2-ticket]: https://forms.gle/NsMxamsPx3H2Gcy99
+[am-rev-1-2-ticket]: https://forms.gle/2FqPajjA6JZgeAWB7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-2-demo] '
 [am-rev-1-2-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-1-2-sol] '
@@ -178,7 +178,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-1-5] '
 [am-rev-1-5]: https://youtu.be/rlwfkQ32t38
 [//]: # ' Paste in table above >> [🎟][am-rev-1-5-ticket] '
-[am-rev-1-5-ticket]: https://forms.gle/AjLTzpPXduKpyjp67
+[am-rev-1-5-ticket]: https://forms.gle/n9VNh5djNRuvVaoK6
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-5-demo] '
 [am-rev-1-5-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-1-5-sol] '
@@ -237,7 +237,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-1-3] '
 [am-rev-1-3]: https://youtu.be/awdZ807lYUo
 [//]: # ' Paste in table above >> [🎟][am-rev-1-3-ticket] '
-[am-rev-1-3-ticket]: https://forms.gle/YRYVafMWg33aETKP6
+[am-rev-1-3-ticket]: https://forms.gle/rktybuM7THcRbEYQA
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-1-3-demo] '
 [am-rev-1-3-demo]: 01-junior-phase/day-4-DOM/morning-review-notes
 [//]: # ' Paste in table above >> [👾][am-rev-1-3-sol] '
@@ -350,7 +350,7 @@
 [//]: # ' Paste in table above >> [📺][am-rev-2-1] '
 [am-rev-2-1]: https://youtu.be/ALE0Gm2xJ6E
 [//]: # ' Paste in table above >> [🎟][am-rev-2-1-ticket] '
-[am-rev-2-1-ticket]: https://forms.gle/YJ1wKKV3nFnFB2Be8
+[am-rev-2-1-ticket]: https://forms.gle/kzDcXoPjDZPVvMWt7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-1-demo] '
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
