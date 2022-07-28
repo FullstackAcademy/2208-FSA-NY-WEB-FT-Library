@@ -7,6 +7,10 @@
 - To prepare, see the "📚 Supplemental Study Materials" section at the top of this repo.
 - _Thoroughly_ read the [Academic Integrity Policy](01-junior-phase/academic-integrity-policy.md), which includes allowed resources.
 
+| Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
+| ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
+| CSS Preprocessors    |  |  | -                     | -                    | -      |
+
 ## Day 3: Single-Page Applications
 
 [trip-planner-pre]: https://learn.fullstackacademy.com/workshop/5a709ec934f42b0004ded97f/content/5a709ec934f42b0004ded98a/text
