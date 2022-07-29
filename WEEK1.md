@@ -14,7 +14,7 @@
 | Topic                         | Lecture                    | Slides                        | Demo           | Solution             |
 | ----------------------------- | -------------------------- | ----------------------------- | -------------- | -------------------- |
 | Intro to Junior Phase         |        | -                             | -              | -                    |
-| Giving and Recieving Feedback |        | [🖼️][feedback-slides]         | -              | -                    |
+| Giving and Recieving Feedback |  [📺][pair-programming-lec]      | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          |  | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          | -                          | [🖼️][html-slides]             | -              | -                    |
 | CSS                           |              | [🖼️][css-slides]              |  |         |
@@ -28,7 +28,7 @@
 [feedback-lec]: https://youtu.be/X1bp8CD4UL8
 [feedback-slides]: 01-junior-phase/day-1-orientation-html&css/feedback.pdf
 [//]: # ' Paste in table above >> [📺][pair-programming-lec] '
-[pair-programming-lec]: https://youtu.be/o8jENGDEfLE
+[pair-programming-lec]: https://youtu.be/RuXVCR3jl78
 [pair-programming-slides]: https://docs.google.com/presentation/d/1Rp_13FMUVrDTmiNfa1YYwKp8rHSAJOvI_gOjPiO8NUY/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][html-lec] '
 [html-lec]: #paste-YouTube-link-here
