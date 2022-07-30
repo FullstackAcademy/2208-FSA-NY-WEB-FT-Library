@@ -14,7 +14,7 @@
 | Topic                         | Lecture                    | Slides                        | Demo           | Solution             |
 | ----------------------------- | -------------------------- | ----------------------------- | -------------- | -------------------- |
 | Intro to Junior Phase         |        | -                             | -              | -                    |
-| Giving and Recieving Feedback |  [📺][pair-programming-lec]      | [🖼️][feedback-slides]         | -              | -                    |
+| Giving and Recieving Feedback |       | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          |  | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          | -                          | [🖼️][html-slides]             | -              | -                    |
 | CSS                           |              | [🖼️][css-slides]              |  |         |
