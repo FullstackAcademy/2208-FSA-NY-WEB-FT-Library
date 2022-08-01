@@ -16,7 +16,7 @@
 | Intro to Junior Phase         |        | -                             | -              | -                    |
 | Giving and Recieving Feedback |       | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          | [📺][pair-programming-lec]   | [🖼️][pair-programming-slides] | -              | -                    |
-| HTML                          |                       | [🖼️][html-slides]             | -              | -                    |
+| HTML                          | [📺][html-lec]| [🖼️][html-slides]             | -              | -                    |
 | CSS                           |              | [🖼️][css-slides]              | [🧑‍💻][css-demo]   |       |
 | Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              |  |
 
@@ -31,7 +31,7 @@
 [pair-programming-lec]: https://youtu.be/lMk_flg0Dg0
 [pair-programming-slides]: https://docs.google.com/presentation/d/1Rp_13FMUVrDTmiNfa1YYwKp8rHSAJOvI_gOjPiO8NUY/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][html-lec] '
-[html-lec]: #paste-YouTube-link-here
+[html-lec]: https://youtu.be/TJNDGUuCP0g
 [html-slides]: https://docs.google.com/presentation/d/1Nx7cEU0bMGIBSQPqC5BYS622owsmnoMlmY6yzfN21I0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][html-demo] '
 [html-demo]: #link-demo-here
