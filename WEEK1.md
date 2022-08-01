@@ -17,7 +17,7 @@
 | Giving and Recieving Feedback |       | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          | [📺][pair-programming-lec]   | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          |                       | [🖼️][html-slides]             | -              | -                    |
-| CSS                           |              | [🖼️][css-slides]              |  |         |
+| CSS                           |              | [🖼️][css-slides]              |  |  [🧑‍💻][css-demo]       |
 | Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              |  |
 
 [//]: # ' Paste in table above >> [🖼️][intro-jr-phase-slides] '
@@ -39,7 +39,7 @@
 [css-lec]: https://youtu.be/SQpVqRXoLeQ
 [css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][css-demo] '
-[css-demo]: 01-junior-phase/day-1-orientation-html&css/html-css
+[css-demo]: https://github.com/joker-jonesy/semantics
 [css-sol]: https://hackmd.io/@2ctk-Q4uQAmhb4qw1GghPA/BJnXBHsnY#CSS-Lab-Solutions
 [//]: # ' Paste in table above >> [📺][am-rev-1-1] '
 [am-rev-1-1]: #paste-YouTube-link-here
