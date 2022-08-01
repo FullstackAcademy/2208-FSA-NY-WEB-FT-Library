@@ -17,7 +17,7 @@
 | Giving and Recieving Feedback |       | [🖼️][feedback-slides]         | -              | -                    |
 | How to Work Together          | [📺][pair-programming-lec]   | [🖼️][pair-programming-slides] | -              | -                    |
 | HTML                          | [📺][html-lec]| [🖼️][html-slides]             | -              | -                    |
-| CSS                           |              | [🖼️][css-slides]              | [🧑‍💻][css-demo]   |       |
+| CSS                           |[📺][css-lec]| [🖼️][css-slides]              | [🧑‍💻][css-demo]   |       |
 | Morning Review                | -                          | [🎟][am-rev-1-1-ticket]        | -              |  |
 
 [//]: # ' Paste in table above >> [🖼️][intro-jr-phase-slides] '
@@ -36,7 +36,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][html-demo] '
 [html-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [📺][css-lec] '
-[css-lec]: https://youtu.be/SQpVqRXoLeQ
+[css-lec]: https://youtu.be/mk7F_FbNJjg
 [css-slides]: https://docs.google.com/presentation/d/1rDKlYTjosIqNGcEQ3jXNzHSYFnq41ZeuyYB4nxIEEWk/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][css-demo] '
 [css-demo]: https://github.com/joker-jonesy/semantics
