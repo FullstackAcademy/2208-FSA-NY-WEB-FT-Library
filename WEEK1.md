@@ -82,7 +82,7 @@
 | Topic                  | Lecture           | Slides                 | Demo               | Solution                                               |
 | ---------------------- | ----------------- | ---------------------- | ------------------ | ------------------------------------------------------ |
 | Git: Getting Confident |     | [🖼️][git-slides]       | -                  | -                                                      |
-| Flexbox                |  [🖼️][flexbox-slides]   |  | -                                                      |[🧑‍💻][flexbox-demo]
+| Flexbox                |  [🖼️][flexbox-slides]   |  | [🧑‍💻][flexbox-demo]                                                      |
 | Landing Page Liftoff   |     | -                      | -                  |  |
 | Morning Review         | -                 | [🎟][am-rev-1-2-ticket] | -                  |                                   |
 
