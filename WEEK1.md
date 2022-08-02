@@ -81,18 +81,18 @@
 
 | Topic                  | Lecture           | Slides                 | Demo               | Solution                                               |
 | ---------------------- | ----------------- | ---------------------- | ------------------ | ------------------------------------------------------ |
-| Git: Getting Confident |     | [🖼️][git-slides]       | -                  | -                                                      |
-| Flexbox                |  [🖼️][flexbox-slides]   |  | [🧑‍💻][flexbox-demo]                                                      |
+| Git: Getting Confident |  [📺][git-lec]   | [🖼️][git-slides]       | -                  | -                                                      |
+| Flexbox                | [📺][flexbox-lec] | [🖼️][flexbox-slides]  | [🧑‍💻][flexbox-demo]                                                      |
 | Landing Page Liftoff   |     | -                      | -                  |  |
 | Morning Review         | -                 | [🎟][am-rev-1-2-ticket] | -                  |                                   |
 
 [//]: # ' Paste in table above >> [📺][git-lec] '
-[git-lec]: https://youtu.be/4_GR0X-7bdI
+[git-lec]: https://youtu.be/0FgkpBTjJjw
 [git-slides]: https://docs.google.com/presentation/d/16LGtin0SF41wNOgxbCYDG434Xo7Zbd7j3RfS6C4zIU0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][git-demo] '
 [git-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [📺][flexbox-lec] '
-[flexbox-lec]: https://youtu.be/BrQKfj_G1a4
+[flexbox-lec]: https://youtu.be/YddwIE4RlEw
 [flexbox-slides]: https://docs.google.com/presentation/d/1kXdkZCb4UcxeW-t403rF-wJPPZqtmmQWYN6sXraYkns
 [//]: # ' Paste in table above >> [🧑‍💻][flexbox-demo] '
 [flexbox-demo]: https://github.com/joker-jonesy/get-flexed
