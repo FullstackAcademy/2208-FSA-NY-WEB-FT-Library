@@ -82,7 +82,7 @@
 | Topic                  | Lecture           | Slides                 | Demo               | Solution                                               |
 | ---------------------- | ----------------- | ---------------------- | ------------------ | ------------------------------------------------------ |
 | Git: Getting Confident |     | [🖼️][git-slides]       | -                  | -                                                      |
-| Flexbox                |  [🖼️][flexbox-slides]   |  | -                                                      |
+| Flexbox                |  [🖼️][flexbox-slides]   |  | -                                                      |[🧑‍💻][flexbox-demo]
 | Landing Page Liftoff   |     | -                      | -                  |  |
 | Morning Review         | -                 | [🎟][am-rev-1-2-ticket] | -                  |                                   |
 
@@ -95,7 +95,7 @@
 [flexbox-lec]: https://youtu.be/BrQKfj_G1a4
 [flexbox-slides]: https://docs.google.com/presentation/d/1kXdkZCb4UcxeW-t403rF-wJPPZqtmmQWYN6sXraYkns
 [//]: # ' Paste in table above >> [🧑‍💻][flexbox-demo] '
-[flexbox-demo]: 01-junior-phase/day-2-flex-demo
+[flexbox-demo]: https://github.com/joker-jonesy/get-flexed
 [//]: # ' Paste in table above >> [📺][flexbox-lec] '
 [lpl-qa]: https://youtu.be/hARiHyXfQys
 [//]: # ' Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] '
