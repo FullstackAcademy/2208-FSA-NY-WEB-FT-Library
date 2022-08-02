@@ -1,0 +1,20 @@
+{
+  "name": "dom_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha script_test.js --watch",
+    "start": "http-server . -p 8000 -o -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "http-server": "^0.12.3",
+    "jsdom": "^16.4.0",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.3"
+  }
+}
