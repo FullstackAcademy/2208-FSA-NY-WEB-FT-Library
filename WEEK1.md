@@ -83,7 +83,7 @@
 | ---------------------- | ----------------- | ---------------------- | ------------------ | ------------------------------------------------------ |
 | Git: Getting Confident |  [📺][git-lec]   | [🖼️][git-slides]       | -                  | -                                                      |
 | Flexbox                | [📺][flexbox-lec] | [🖼️][flexbox-slides]  | [🧑‍💻][flexbox-demo]                                                      |
-| Landing Page Liftoff   |     | -                      | -                  |  | [👾][landing-page-sol] 
+| Landing Page Liftoff   |     | -                      | -                  | [👾][landing-page-sol]  | 
 | Morning Review         | -                 | [🎟][am-rev-1-2-ticket] | -                  |                                   |
 
 [//]: # ' Paste in table above >> [📺][git-lec] '
