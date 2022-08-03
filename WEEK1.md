@@ -155,7 +155,7 @@
 | Topic                                    | Lecture                | Slides                  | Demo                    | Solution              | Review |
 | ---------------------------------------- | ---------------------- | ----------------------- | ----------------------- | --------------------- | ------ |
 | Intro to Node: Modules                   |  [📺][node-modules-lec]  |  [🖼️][node-slides] | | -      |
-| Intro to Node: Asyncronicity & Callbacks |    | [🖼️][node-async-slides] |    |  | -      |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec]   | [🖼️][node-async-slides] |    |  | -      |
 | Morning Review                           |    | [🎟][am-rev-1-5-ticket] | -                       |   | -      |
 | Unconscious Bias                          |  [📺][bias-lec]   | -| -                       |   | -      |
 
