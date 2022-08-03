@@ -157,9 +157,12 @@
 | Intro to Node: Modules                   |   [🖼️][node-slides]       | | | -      |
 | Intro to Node: Asyncronicity & Callbacks |    | [🖼️][node-async-slides] |    |  | -      |
 | Morning Review                           |    | [🎟][am-rev-1-5-ticket] | -                       |   | -      |
+| Unconscious Bias                          |  [📺][bias-lec]   | -| -                       |   | -      |
 
 [//]: # ' Paste in table above >> [📺][node-modules-lec] '
 [node-modules-lec]: https://youtu.be/3vo0KvrkuPY
+[//]: # ' Paste in table above >> [📺][bias-lec] '
+[bias-lec]: https://youtu.be/-tAyaUF5reY
 [node-slides]: https://docs.google.com/presentation/d/1k69_CpSosFbImFStCnpjh4tdNlbtLSq6WB3MZA8fhZo/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][node-modules-demo] '
 [node-modules-demo]: 01-junior-phase/day-3-node-demo
