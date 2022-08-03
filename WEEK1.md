@@ -154,20 +154,20 @@
 
 | Topic                                    | Lecture                | Slides                  | Demo                    | Solution              | Review |
 | ---------------------------------------- | ---------------------- | ----------------------- | ----------------------- | --------------------- | ------ |
-| Intro to Node: Modules                   |   [🖼️][node-slides]       | | | -      |
+| Intro to Node: Modules                   |  [📺][node-modules-lec]  |  [🖼️][node-slides] | | -      |
 | Intro to Node: Asyncronicity & Callbacks |    | [🖼️][node-async-slides] |    |  | -      |
 | Morning Review                           |    | [🎟][am-rev-1-5-ticket] | -                       |   | -      |
 | Unconscious Bias                          |  [📺][bias-lec]   | -| -                       |   | -      |
 
 [//]: # ' Paste in table above >> [📺][node-modules-lec] '
-[node-modules-lec]: https://youtu.be/3vo0KvrkuPY
+[node-modules-lec]: https://youtu.be/mABQtij-qKI
 [//]: # ' Paste in table above >> [📺][bias-lec] '
 [bias-lec]: https://youtu.be/-tAyaUF5reY
 [node-slides]: https://docs.google.com/presentation/d/1k69_CpSosFbImFStCnpjh4tdNlbtLSq6WB3MZA8fhZo/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][node-modules-demo] '
 [node-modules-demo]: 01-junior-phase/day-3-node-demo
 [//]: # ' Paste in table above >> [📺][node-async-lec] '
-[node-async-lec]: https://youtu.be/6ekSyyNrNqc
+[node-async-lec]: https://youtu.be/Q0hFXcmOAVM
 [node-async-slides]: https://docs.google.com/presentation/d/1rJxfZ8Dcv4uDS2LXZSJ0EvAjUyKAXY_6KDjCAvFvrOA/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][node-async-demo] '
 [node-async-demo]: http://latentflip.com/loupe/
