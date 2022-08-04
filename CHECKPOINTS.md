@@ -4,7 +4,7 @@
 
 | Topic          | Link               | Due by                  | Solution                                  |
 | -------------- | ------------------ | ----------------------- | ----------------------------------------- |
-| DOM            |    | Sun 8-7 @ 11:59 PM ET      |                    |
+| DOM            |  [🔗][ckpt-dom]  | Sun 8-7 @ 11:59 PM ET      |                    |
 | Node & Express |  | Sun 8-14 11:59 PM ET        |         |
 | Pillars        |      | _IN CLASS_ 8-16 11:59 AM ET |                      |
 | React          |    | Sun  8-21 11:59 PM ET         |  |
@@ -13,8 +13,8 @@
 <!--           | JPFP               | [🔗][jpfp]                 | -        | -   | -->
 <!--           | Data Structures    | [🔗][ckpt-data-structures] | -        | -   | -->
 
-[//]: # ' Open checkpoint solutions the day after it is due [depending on extensions] '
-[ckpt-dom]: [https://github.com/FullstackAcademy/Checkpoint.DOM](https://github.com/joker-jonesy/Dom-Checkpoint)
+[//]: # ' Paste in table above >> [🔗][ckpt-dom]'
+[ckpt-dom]: https://github.com/joker-jonesy/Dom-Checkpoint
 [//]: # ' Paste in table above >> [👾][ckpt-dom-sol] '
 [ckpt-dom-sol]: https://github.com/FullstackAcademy/Checkpoint.DOM.Solution
 [ckpt-express]: https://github.com/FullstackAcademy/Checkpoint-Node-Express
