@@ -323,8 +323,8 @@
 
 | Topic                          | Lecture | Slides                   | Demo | Solution | Review |
 | ------------------------------ | ------- | ------------------------ | ---- | -------- | ------ |
-| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | -        | -      |
-| `async`/`await`                |  | [🖼️][async-await-slides] |  |   | -      |
+| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         | -      |
+| `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | -      |
 | Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][express-101-lec] '
