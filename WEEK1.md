@@ -214,8 +214,8 @@
 | ----------------------------------------------------- | -------------------- | ----------------------- | --------------------- | -------------------------------------------------------------------- |
 | Practical Debugging: Prevention                       | N/A                  | [🖼️][prevention-slides] | -                     | -                                                                    |
 | Practical Debugging: Detection, Diagnosis & Treatment | N/A                  | [🖼️][ddt-slides]        | -                     | -                                                                    |
-| Intro to the DOM                                      |  | [🖼️][dom-intro-slides]  |  | -                                                                    |
-| Event Listeners & Handlers (Whack-a-mole)             |  | [🖼️][dom-events-slides] | -                     | [👾][whack-a-mole-sol] |
+| Intro to the DOM                                      | [📺][dom-intro-lec] | [🖼️][dom-intro-slides]  |  | -                                                                    |
+| Event Listeners & Handlers (Whack-a-mole)             | [📺][dom-events-lec] | [🖼️][dom-events-slides] | -                     | [👾][whack-a-mole-sol] |
 | Morning Review                                        |     | [🎟][am-rev-1-3-ticket]  |  | -                                                                    |
 
 [//]: # ' Paste in table above >> [📺][prevention-lec] '
@@ -225,12 +225,12 @@
 [ddt-lec]: #paste-YouTube-link-here
 [ddt-slides]: https://docs.google.com/presentation/d/1ACMEsqVvP1BzMGN234Jx4YoP5ZuODLXxtY59R09wzKM/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][dom-intro-lec] '
-[dom-intro-lec]: https://youtu.be/djf86jYmrZA
+[dom-intro-lec]: https://youtu.be/M0kZODyyaFs
 [dom-intro-slides]: https://docs.google.com/presentation/d/1MtF7vUwnY08ZA5ofDpjcjlcv49GAal70k0F7my3D6YQ/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][dom-intro-demo] '
 [dom-intro-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [📺][dom-events-lec] '
-[dom-events-lec]: https://youtu.be/WIJhPLBjt4k
+[dom-events-lec]: https://youtu.be/QErXiHQ83QY
 [dom-events-slides]: https://docs.google.com/presentation/d/1Unq4gPwi1N5Dn-8yX5MlWRr4RH_FOosaiU2uEXyogNg/edit?usp=sharing
 [//]: # ' Paste in table above >> [👨‍💻][dom-events-demo] '
 [dom-events-demo]: 01-junior-phase/day-4-DOM/dom-event-listeners-demo
