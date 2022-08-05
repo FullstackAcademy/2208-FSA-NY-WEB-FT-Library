@@ -331,7 +331,7 @@
 [express-101-lec]: https://youtu.be/n6i7Io84pjg
 [express-101-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/express-intro-2206.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][express-101-demo] '
-[express-101-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/async-await
+[express-101-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo
 [//]: # ' Paste in table above >> [📺][express-201-lec] '
 [express-201-lec]: #paste-YouTube-link-here
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
@@ -345,7 +345,7 @@
 [async-await-lec]: https://youtu.be/DSlxl6p3YaY
 [async-await-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/async-await-2206.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][async-await-demo] '
-[async-await-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/express
+[async-await-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/demo-async
 [//]: # ' Paste in table above >> [👾][async-await-sol] '
 [async-await-sol]: https://github.com/FullstackAcademy/Solution.Lab.AsyncAwait
 [//]: # ' Paste in table above >> [👾][async-await-sol] '
