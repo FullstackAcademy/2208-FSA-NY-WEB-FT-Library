@@ -99,7 +99,7 @@
 [//]: # ' Paste in table above >> [📺][flexbox-lec] '
 [lpl-qa]: https://youtu.be/hARiHyXfQys
 [//]: # ' Paste in table above >> [👾][landing-page-sol] </br> [👾 Extra Credit][landing-page-sol-extra] '
-[landing-page-sol]: [https://github.com/FullstackAcademy/Landing-Page-Launchpad/tree/solution](https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/Landing-Page-Launchpad-solution)
+[landing-page-sol]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/Landing-Page-Launchpad-solution
 [landing-page-sol-vid]: https://www.youtube.com/watch?v=TvTiebmefWY
 [landing-page-sol-extra]: ####
 [//]: # ' Paste in table above >> [📺][landing-page-rev] '
