@@ -323,7 +323,7 @@
 
 | Topic                          | Lecture | Slides                   | Demo | Solution | Review |
 | ------------------------------ | ------- | ------------------------ | ---- | -------- | ------ |
-| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         | -      |
+| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         |[👾][am-rev-2-1-sol]      |
 | `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | [👾][async-await-sol]      |
 | Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
 | Feedback Lecture                 |[📺][feedback-lec]  |  | -    | -        | -      |
@@ -358,7 +358,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-2-1-demo] '
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
-[am-rev-2-1-sol]: #paste-gist-here
+[am-rev-2-1-sol]: https://learn.fullstackacademy.com/workshop/59e7949019602f0004fb6478/content/59e794d719602f0004fb6482/text
 [//]: # ' Paste in table above >> [📺][feedback-lec '
 [feedback-lec]: https://youtu.be/IFjk1aJ3zCA
 - **You should be able to:**
