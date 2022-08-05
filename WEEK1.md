@@ -155,7 +155,7 @@
 | Topic                                    | Lecture                | Slides                  | Demo                    | Solution              | Review |
 | ---------------------------------------- | ---------------------- | ----------------------- | ----------------------- | --------------------- | ------ |
 | Intro to Node: Modules                   |  [📺][node-modules-lec]  |  [🖼️][node-slides] | | -      |
-| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec]   | [🖼️][node-async-slides] |    |  | -      |
+| Intro to Node: Asyncronicity & Callbacks | [📺][node-async-lec]   | [🖼️][node-async-slides] |  [👾][node-shell-sol]   |  | -      |
 | Morning Review                           |    | [🎟][am-rev-1-5-ticket] | -                       |   | -      |
 | Unconscious Bias                          |  [📺][bias-lec]   | -| -                       |   | -      |
 
@@ -215,7 +215,7 @@
 | Practical Debugging: Prevention                       | N/A                  | [🖼️][prevention-slides] | -                     | -                                                                    |
 | Practical Debugging: Detection, Diagnosis & Treatment | N/A                  | [🖼️][ddt-slides]        | -                     | -                                                                    |
 | Intro to the DOM                                      |  | [🖼️][dom-intro-slides]  |  | -                                                                    |
-| Event Listeners & Handlers (Whack-a-mole)             |  | [🖼️][dom-events-slides] | -                     |  |
+| Event Listeners & Handlers (Whack-a-mole)             |  | [🖼️][dom-events-slides] | -                     | [👾][whack-a-mole-sol] |
 | Morning Review                                        |     | [🎟][am-rev-1-3-ticket]  |  | -                                                                    |
 
 [//]: # ' Paste in table above >> [📺][prevention-lec] '
@@ -271,7 +271,7 @@
 
 | Topic    | Video Walkthrough  | Solution           |
 | -------- | ------------------ | ------------------ |
-| Pixelate |  |  |
+| Pixelate |  | [👾][pixelate-sol] |
 
 [//]: # ' Paste in table above >> [👾][pixelate-sol] '
 [pixelate-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution
