@@ -324,7 +324,7 @@
 | Topic                          | Lecture | Slides                   | Demo | Solution | Review |
 | ------------------------------ | ------- | ------------------------ | ---- | -------- | ------ |
 | HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         | -      |
-| `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | -      |
+| `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | [👾][async-await-sol]      |
 | Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
 | Feedback Lecture                 |[📺][feedback-lec]  |  | -    | -        | -      |
 
