@@ -326,6 +326,7 @@
 | HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         | -      |
 | `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | -      |
 | Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
+| Feedback Lecture                 |[📺][feedback-lec]  |  | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][express-101-lec] '
 [express-101-lec]: https://youtu.be/n6i7Io84pjg
@@ -358,7 +359,8 @@
 [am-rev-2-1-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-2-1-sol] '
 [am-rev-2-1-sol]: #paste-gist-here
-
+[//]: # ' Paste in table above >> [📺][feedback-lec '
+[feedback-lec]: https://youtu.be/IFjk1aJ3zCA
 - **You should be able to:**
   - Describe the role of a client, a server, and HTTP
   - Describe Express middleware, requests, and responses
