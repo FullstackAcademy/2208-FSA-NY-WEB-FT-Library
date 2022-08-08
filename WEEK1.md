@@ -323,13 +323,13 @@
 
 | Topic                          | Lecture | Slides                   | Demo | Solution | Review |
 | ------------------------------ | ------- | ------------------------ | ---- | -------- | ------ |
-| HTTP and Express 101           |  | [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         |[👾][am-rev-2-1-sol]      |
+| HTTP and Express 101           |  [📺][express-101-lec]| [🖼️][express-101-slides] |  | [🧑‍💻][express-101-demo]         |[👾][am-rev-2-1-sol]      |
 | `async`/`await`                |  | [🖼️][async-await-slides] |  | [🧑‍💻][async-await-demo]  | [👾][async-await-sol]      |
 | Morning Review                 |  | [🎟][am-rev-2-1-ticket] | -    | -        | -      |
 | Feedback Lecture                 |[📺][feedback-lec]  |  | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][express-101-lec] '
-[express-101-lec]: https://youtu.be/n6i7Io84pjg
+[express-101-lec]: https://youtu.be/2qJTIiDRTcE
 [express-101-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-5-demos/express-intro-2206.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][express-101-demo] '
 [express-101-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo
