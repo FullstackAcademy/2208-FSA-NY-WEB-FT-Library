@@ -20,7 +20,7 @@
 
 | Topic                           | Lecture               | Slides                   | Demo                   | Solution                   | Review                     |
 | ------------------------------- | --------------------- | ------------------------ | ---------------------- | -------------------------- | -------------------------- |
-| Express 201 (Wizard News Pt 1)  | | [🖼️][express-201-slides] | |  |  |
+| Express 201 (Wizard News Pt 1)  | | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] |  |  |
 | Intro to Databases & PostgreSQL | -                     | [🖼️][db-slides]          | -                      | -                          | -                          |
 | Intro to SQL                    |        | [🖼️][sql-slides]         |         | -                          | -                          |
 | Morning Review                  |      | [🎟][am-rev-2-1-ticket]   |  |       | -                          |
@@ -29,7 +29,7 @@
 [express-201-lec]: https://youtu.be/Mg6O-1um10w
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][express-201-demo] '
-[express-201-demo]: 01-junior-phase/day-6-express-sql/express201
+[express-201-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-2
 [//]: # ' Paste in table above >> [👾][express-wizard-1-sol] '
 [express-wizard-1-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part1
 [//]: # ' Paste in table above >> [📺][express-wizard-1-rev] '
