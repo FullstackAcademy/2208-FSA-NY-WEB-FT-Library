@@ -1,0 +1,23 @@
+{
+  "name": "wizardnews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "seed": "psql -d wnews -a -f ./seed.sql && psql -d wnews -a -f ./upvotes_seed.sql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-template-tag": "^4.0.0",
+    "morgan": "^1.10.0",
+    "node-time-ago": "^1.0.0",
+    "pg": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
