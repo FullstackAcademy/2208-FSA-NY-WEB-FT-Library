@@ -106,7 +106,7 @@
 
 | Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
 | --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   |   |  | -      |
+| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  | -      |
 | RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | -      |
 | Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
@@ -114,7 +114,7 @@
 [node-postgres-lec]: https://youtu.be/-vSl7dyKfN4
 [node-postgres-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/node-postgres.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
-[node-postgres-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/pg-demo
+[node-postgres-demo]: https://github.com/ericpkatz/acme-user-things_2208
 [//]: # ' Paste in table above >> [👾][wizard-news-2-sol] '
 [wizard-news-2-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part2
 [//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
