@@ -20,13 +20,13 @@
 
 | Topic                           | Lecture               | Slides                   | Demo                   | Solution                   | Review                     |
 | ------------------------------- | --------------------- | ------------------------ | ---------------------- | -------------------------- | -------------------------- |
-| Express 201 (Wizard News Pt 1)  | | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] |  |  |
-| Intro to Databases & PostgreSQL | -                     | [🖼️][db-slides]          | -                      | -                          | -                          |
-| Intro to SQL                    |        | [🖼️][sql-slides]         |         | -                          | -                          |
+| Express 201 (Wizard News Pt 1)  | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] |  |  |
+| Intro to Databases & PostgreSQL |   [📺][db-lec]| [🖼️][db-slides]          | -                      | -                          | -                          |
+| Intro to SQL                    |    [📺][sql-lec]    | [🖼️][sql-slides]         |         | -                          | -                          |
 | Morning Review                  |      | [🎟][am-rev-2-1-ticket]   |  |       | -                          |
 
 [//]: # ' Paste in table above >> [📺][express-201-lec] '
-[express-201-lec]: https://youtu.be/Mg6O-1um10w
+[express-201-lec]: https://youtu.be/tvuF9DYx3tc
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][express-201-demo] '
 [express-201-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-2
@@ -34,12 +34,14 @@
 [express-wizard-1-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part1
 [//]: # ' Paste in table above >> [📺][express-wizard-1-rev] '
 [express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4
+[//]: # ' Paste in table above >> [📺][db-lec] '
+[db-lec]: https://youtu.be/3DHxOiKJemk
 [//]: # ' Paste in table above >> [🖼️][db-slides] '
 [db-slides]: https://docs.google.com/presentation/d/13VsDAKOCCJulTYtWSbg0gyDX4sqMRWaNVphE0okLmPM
 [//]: # ' Paste in table above >> [🖼️][sql-slides] '
 [sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4
 [//]: # ' Paste in table above >> [📺][sql-lec] '
-[sql-lec]: https://youtu.be/plKBZjg_2xw
+[sql-lec]: https://youtu.be/QDn-KykZDsA
 [sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][sql-demo] '
 [sql-demo]: 01-junior-phase/day-6-express-sql/intro-sql
@@ -104,15 +106,15 @@
 
 | Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
 | --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   |   |  | -      |
-| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | -      |
+| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  | [👾][wizard-news-2-sol]      |
+| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | [👾][wizard-news-3-sol]     |
 | Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
 [//]: # ' Paste in table above >> [📺][node-postgres-lec] '
 [node-postgres-lec]: https://youtu.be/-vSl7dyKfN4
 [node-postgres-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/node-postgres.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
-[node-postgres-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/pg-demo
+[node-postgres-demo]: https://github.com/ericpkatz/acme-user-things_2208
 [//]: # ' Paste in table above >> [👾][wizard-news-2-sol] '
 [wizard-news-2-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part2
 [//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
