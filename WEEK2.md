@@ -264,7 +264,7 @@
 | Review         |            | -                            | -    | -                    | -      |
 | Cody's Cafe    | [📤][cody-cafe-link] | | -    |  | -      |
 
-[cody-cafe-link]: #paste-above
+[cody-cafe-link]: https://github.com/FullstackAcademy/codys-cafe
 [//]: # ' Paste in table above >> [📤][cody-cafe-link] '
 [am-rev-3-1-ticket]: #paste-google-form-link-here
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
