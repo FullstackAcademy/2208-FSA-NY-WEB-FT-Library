@@ -262,8 +262,10 @@
 | -------------- | --------------------------------- | ---------------------------- | ---- | -------------------- | ------ |
 | Morning Review | -                                 | -                            | -    | -                    | -      |
 | Review         |            | -                            | -    | -                    | -      |
-| Cody's Cafe    |  | [🖼️][pillars-ov] Pillars Doc | -    |  | -      |
+| Cody's Cafe    | [📤][cody-cafe-link] | | -    |  | -      |
 
+[cody-cafe-link]: #paste-above
+[//]: # ' Paste in table above >> [📤][cody-cafe-link] '
 [am-rev-3-1-ticket]: #paste-google-form-link-here
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
 [am-rev-3-1-demo]: #link-demo-here
