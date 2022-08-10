@@ -231,7 +231,7 @@
 
 | Topic                            | Lecture                | Slides                    | Demo                        | Solution              | Review |
 | -------------------------------- | ---------------------- | ------------------------- | --------------------------- | --------------------- | ------ |
-| Rounding Out Express & Sequelize |  | [🖼️][rounding-out-slides] |  | -                     | -      |
+| Rounding Out Express & Sequelize |  | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | -                     | -      |
 | Wikistack 2                      | -                      | -                         | -                           |  | -      |
 | Morning Review                   |      | [🎟][am-rev-2-5-ticket]    | -                           | -                     | -      |
 
@@ -239,7 +239,7 @@
 [rounding-out-lec]: https://youtu.be/40-AVLVUZIo
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][rounding-out-lec-demo] '
-[rounding-out-lec-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-9-express-sequlize
+[rounding-out-lec-demo]: https://github.com/joker-jonesy/express-demo-3-start
 [//]: # ' Paste in table above >> [👾][wikistack-2-sol] '
 [wikistack-2-sol]: https://github.com/FullstackAcademy/Solution.Wikistack2
 [//]: # ' Paste in table above >> [📺][am-rev-2-5] '
