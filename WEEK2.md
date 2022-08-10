@@ -176,7 +176,7 @@
 
 | Topic                     | Lecture                       | Slides           | Demo           | Solution              | Review                |
 | ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
-| Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] |  |        | -                     |
+| Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] | [🧑‍💻][orm-demo] |        | -                     |
 | Wikistack 1               | -                             | -                | -              | | |
 | Morning Review            |            | [🎟][am-rev-2-4-ticket]                | -              | -                     | -                     |
 
@@ -184,7 +184,7 @@
 [orm-lec]: https://youtu.be/vcE47KwFOLc
 [orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][orm-demo] '
-[orm-demo]: 01-junior-phase/day-8-orm-sequelize/sequelize-demo
+[orm-demo]: https://github.com/ericpkatz/wizard_news_seq_2208
 [//]: # ' Paste in table above >> [📺][orm-lec-2] '
 [orm-lec-2]: https://youtu.be/gX6ZmMyoMrg
 [//]: # ' Paste in table above >> [👾][orm-sol] '
