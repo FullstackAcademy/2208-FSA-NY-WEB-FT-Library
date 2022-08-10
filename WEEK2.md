@@ -106,12 +106,12 @@
 
 | Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
 | --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  |       |
-| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | | [👾][wizard-news-2-sol] |    |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec]  | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  |       |
+| RESTful Routing (Wizard News Pt 3)      |[📺][restful-express-lec]  | [🖼️][restful-express-slides] | | [👾][wizard-news-2-sol] |    |
 | Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
 [//]: # ' Paste in table above >> [📺][node-postgres-lec] '
-[node-postgres-lec]: https://youtu.be/-vSl7dyKfN4
+[node-postgres-lec]: https://youtu.be/EMVPSkkNTeI
 [node-postgres-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/node-postgres.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
 [node-postgres-demo]: https://github.com/ericpkatz/acme-user-things_2208
@@ -120,7 +120,7 @@
 [//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
 [wizard-news-2-rev]: ###
 [//]: # ' Paste in table above >> [📺][restful-express-lec] '
-[restful-express-lec]: https://youtu.be/CFK8Gefmivk
+[restful-express-lec]: https://youtu.be/Lzd7LGiy7zU
 [restful-express-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/express-routes-and-rest.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][restful-express-demo] '
 [restful-express-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/express-routes-REST
