@@ -106,8 +106,8 @@
 
 | Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
 | --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  | [👾][wizard-news-2-sol]      |
-| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | [👾][wizard-news-3-sol]     |
+| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  |       |
+| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | | [👾][wizard-news-2-sol] |    |
 | Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
 [//]: # ' Paste in table above >> [📺][node-postgres-lec] '
@@ -116,7 +116,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
 [node-postgres-demo]: https://github.com/ericpkatz/acme-user-things_2208
 [//]: # ' Paste in table above >> [👾][wizard-news-2-sol] '
-[wizard-news-2-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part2
+[wizard-news-2-sol]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/Solution.Wizard-news-Part3
 [//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
 [wizard-news-2-rev]: ###
 [//]: # ' Paste in table above >> [📺][restful-express-lec] '
