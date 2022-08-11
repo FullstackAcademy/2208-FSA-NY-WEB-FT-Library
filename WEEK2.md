@@ -242,7 +242,7 @@
 [rounding-out-lec]: https://youtu.be/40-AVLVUZIo
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][rounding-out-lec-demo] '
-[rounding-out-lec-demo]: https://github.com/joker-jonesy/express-demo-3-start
+[rounding-out-lec-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-3-start
 [//]: # ' Paste in table above >> [👾][wikistack-2-sol] '
 [wikistack-2-sol]: https://github.com/FullstackAcademy/Solution.Wikistack2
 [//]: # ' Paste in table above >> [📺][am-rev-2-5] '
