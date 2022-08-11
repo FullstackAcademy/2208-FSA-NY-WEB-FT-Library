@@ -176,12 +176,15 @@
 
 | Topic                     | Lecture                       | Slides           | Demo           | Solution              | Review                |
 | ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
-| Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] | [🧑‍💻][orm-demo] |        | -                     |
+| Morning Review | [📺][morn-lec] | - | - | -       | -                     |
+| Intro to ORMs (Sequelize) | [📺][orm-lec] | [🖼️][orm-slides] | [🧑‍💻][orm-demo] |        | -                     |
 | Wikistack 1               | -                             | -                | -              | | |
 | Morning Review            |            | [🎟][am-rev-2-4-ticket]                | -              | -                     | -                     |
 
+[//]: # ' Paste in table above >> [📺][morn-lec] '
+[morn-lec]: https://youtu.be/cz5K-_Vjqos
 [//]: # ' Paste in table above >> [📺][orm-lec] '
-[orm-lec]: https://youtu.be/vcE47KwFOLc
+[orm-lec]: https://youtu.be/fxO4dgd3PpQ
 [orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][orm-demo] '
 [orm-demo]: https://github.com/ericpkatz/wizard_news_seq_2208
