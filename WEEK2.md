@@ -178,7 +178,7 @@
 | ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
 | Morning Review | [📺][morn-lec] | - | - | -       | -                     |
 | Intro to ORMs (Sequelize) | [📺][orm-lec] | [🖼️][orm-slides] | [🧑‍💻][orm-demo] |        | -                     |
-| Wikistack 1               | -                             | -                | -              | | |
+| Wikistack 1               | -                             | -                | -              |[👾][wikistack-1-sol]  | |
 | Morning Review            |            | [🎟][am-rev-2-4-ticket]                | -              | -                     | -                     |
 
 [//]: # ' Paste in table above >> [📺][morn-lec] '
@@ -235,7 +235,7 @@
 | Topic                            | Lecture                | Slides                    | Demo                        | Solution              | Review |
 | -------------------------------- | ---------------------- | ------------------------- | --------------------------- | --------------------- | ------ |
 | Rounding Out Express & Sequelize |  | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | -                     | -      |
-| Wikistack 2                      | -                      | -                         | -                           |  | -      |
+| Wikistack 2                      | -                      | -                         | -                           |  | [👾][wikistack-2-sol]       |
 | Morning Review                   |      | [🎟][am-rev-2-5-ticket]    | -                           | -                     | -      |
 
 [//]: # ' Paste in table above >> [📺][rounding-out-lec] '
