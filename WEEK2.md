@@ -244,7 +244,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][rounding-out-lec-demo] '
 [rounding-out-lec-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-3-start
 [//]: # ' Paste in table above >> [👾][wikistack-2-sol] '
-[wikistack-2-sol]: https://github.com/FullstackAcademy/Solution.Wikistack2
+[wikistack-2-sol]: https://github.com/joker-jonesy/Solution.Wikistack2-main
 [//]: # ' Paste in table above >> [📺][am-rev-2-5] '
 [am-rev-2-5]: https://youtu.be/AMZxiAtq8KY
 [//]: # ' Paste in table above >> [🎟][am-rev-2-5-ticket] '
