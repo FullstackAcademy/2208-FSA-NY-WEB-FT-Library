@@ -9,7 +9,7 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| CSS Preprocessors    |  |  | [🧑‍💻][less-is-more]                    | -                    | -      |
+| CSS Preprocessors    | [📺][less-ismore-lec]  |  | [🧑‍💻][less-is-more]                    | -                    | -      |
 
 ## Day 3: Single-Page Applications
 
@@ -22,7 +22,10 @@
 | Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
 
 [//]: # ' Paste in table above >> [🧑‍💻][less-is-more] '
-[fe-modules-demo]: https://github.com/joker-jonesy/more-with-less
+[less-is-more]: https://github.com/joker-jonesy/more-with-less
+
+[//]: # ' Paste in table above >> [📺][less-ismore-lec] '
+[less-ismore-lec]: https://youtu.be/gL-H-vnJb8w
 
 [//]: # ' Paste in table above >> [📺][fe-modules-lec] '
 [fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
