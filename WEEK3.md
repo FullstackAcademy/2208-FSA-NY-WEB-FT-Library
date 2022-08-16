@@ -9,7 +9,7 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| CSS Preprocessors    |  |  | -                     | -                    | -      |
+| CSS Preprocessors    |  |  | [🧑‍💻][less-is-more]                    | -                    | -      |
 
 ## Day 3: Single-Page Applications
 
@@ -20,6 +20,9 @@
 | Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | -                    | -      |
 | SPA & AJAX (PuppyBowl) |    | [🖼️][spa-ajax-slides]   |   |  | -      |
 | Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
+
+[//]: # ' Paste in table above >> [🧑‍💻][less-is-more] '
+[fe-modules-demo]: https://github.com/joker-jonesy/more-with-less
 
 [//]: # ' Paste in table above >> [📺][fe-modules-lec] '
 [fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
