@@ -17,8 +17,8 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | [🧑‍💻][fe-modules-demo]                  | -      |
-| SPA & AJAX (PuppyBowl) |    | [🖼️][spa-ajax-slides]   |   |  | -      |
+| Front-End Modules      | [📺][fe-modules-lec] | [🖼️][fe-modules-slides] | -                     | [🧑‍💻][fe-modules-demo]                  | -      |
+| SPA & AJAX (PuppyBowl) |  [📺][spa-ajax-lec]  | [🖼️][spa-ajax-slides]   |   |  | -      |
 | Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
 
 [//]: # ' Paste in table above >> [🧑‍💻][less-is-more] '
@@ -28,12 +28,12 @@
 [less-ismore-lec]: https://youtu.be/gL-H-vnJb8w
 
 [//]: # ' Paste in table above >> [📺][fe-modules-lec] '
-[fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
+[fe-modules-lec]: https://youtu.be/zWT7emgYKwg
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][fe-modules-demo] '
 [fe-modules-demo]: https://github.com/joker-jonesy/Webpacking
 [//]: # ' Paste in table above >> [📺][spa-ajax-lec] '
-[spa-ajax-lec]: https://youtu.be/gatX6cl3_lE
+[spa-ajax-lec]: https://youtu.be/QCd2ep-ieKc
 [spa-ajax-slides]: https://docs.google.com/presentation/d/1F3O6Zwl3blYnRw9pOJ2dGvlfngR3XTNa_ITlV1kV2P0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][spa-ajax-demo] '
 [spa-ajax-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-12-spa-ajax/ajax-demo
