@@ -264,7 +264,7 @@
 | Topic          | Lecture                           | Slides                       | Demo | Solution             | Review |
 | -------------- | --------------------------------- | ---------------------------- | ---- | -------------------- | ------ |
 | Morning Review | -                                 | -                            | -    | -                    | -      |
-| Review         |            | -                            | -    | -                    | -      |
+| Review         |            | -                            | -    | -                    | [👾][codys-cafe-sol]      |
 | Cody's Cafe    | [📤][cody-cafe-link] | | -    |  | -      |
 
 [cody-cafe-link]: https://github.com/FullstackAcademy/codys-cafe
