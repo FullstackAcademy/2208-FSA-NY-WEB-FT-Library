@@ -17,7 +17,7 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | -                    | -      |
+| Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | [🧑‍💻][fe-modules-demo]                  | -      |
 | SPA & AJAX (PuppyBowl) |    | [🖼️][spa-ajax-slides]   |   |  | -      |
 | Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
 
@@ -31,7 +31,7 @@
 [fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][fe-modules-demo] '
-[fe-modules-demo]: #link-demo-here
+[fe-modules-demo]: https://github.com/joker-jonesy/Webpacking
 [//]: # ' Paste in table above >> [📺][spa-ajax-lec] '
 [spa-ajax-lec]: https://youtu.be/gatX6cl3_lE
 [spa-ajax-slides]: https://docs.google.com/presentation/d/1F3O6Zwl3blYnRw9pOJ2dGvlfngR3XTNa_ITlV1kV2P0/edit?usp=sharing
