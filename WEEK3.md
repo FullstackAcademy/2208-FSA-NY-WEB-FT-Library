@@ -92,20 +92,20 @@
 
 | Topic                              | Lecture                   | Slides                       | Demo                     | Solution                  | Review |
 | ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
-| Intro to React                     |     | [🖼️][intro-react-slides]     | -                        |     |        |
-| State & Props                      |    | [🖼️][state-props-slides]     |   |     |        |
+| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                        |     |        |
+| State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |   |     |        |
 | Component Lifecycle (Contact List) |  | [🖼️][react-lifecycle-slides] | |  |        |
 | Morning Review                     |         | [🎟][am-rev-3-4-ticket]       | -                        | -                         | -      |
 
 [//]: # ' Paste in table above >> [📺][intro-react-lec] '
-[intro-react-lec]: https://youtu.be/WVkfIRo4170
+[intro-react-lec]: https://youtu.be/Mpn0YqkGjvY
 [intro-react-slides]: https://docs.google.com/presentation/d/12YbNHn_ooDhKiAjdnwbQVbqaEesj-5oNEqheN8BCME0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][intro-react-demo] '
 [intro-react-demo]: ###
 [//]: # ' Paste in table above >> [👾][intro-react-sol] '
 [intro-react-sol]: 01-junior-phase/day-13-react/Lab.FirstComponent/app/index.js
 [//]: # ' Paste in table above >> [📺][state-props-lec] '
-[state-props-lec]: https://youtu.be/TVSLxwQdBDk
+[state-props-lec]: https://youtu.be/JuDYMY-lsaI
 [state-props-slides]: https://docs.google.com/presentation/d/1Hkc85unbFqqOMoUmmCJKWQVYwfzWaVdHf7YfQYTiXnY/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][state-props-demo] '
 [state-props-demo]: 01-junior-phase/day-13-react/PropsAndState/app
