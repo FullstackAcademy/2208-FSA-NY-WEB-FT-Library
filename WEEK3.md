@@ -94,7 +94,7 @@
 | ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
 | Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                        |     |        |
 | State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |   |     |        |
-| Component Lifecycle (Contact List) |  | [🖼️][react-lifecycle-slides] | |  |        |
+| Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] | |  |        |
 | Morning Review                     |         | [🎟][am-rev-3-4-ticket]       | -                        | -                         | -      |
 
 [//]: # ' Paste in table above >> [📺][intro-react-lec] '
@@ -113,7 +113,7 @@
 [//]: # ' Paste in table above >> [👾][state-props-sol] '
 [state-props-sol]: https://github.com/FullstackAcademy/Lab.PropsAndState/blob/solution/app/index.js
 [//]: # ' Paste in table above >> [📺][react-lifecycle-lec] '
-[react-lifecycle-lec]: https://youtu.be/1EJ-JG69Hk0
+[react-lifecycle-lec]: https://youtu.be/hzPFcj_9xAQ
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][react-lifecycle-sol] '
 [react-lifecycle-sol]: https://github.com/FullstackAcademy/PairExercise.ContactList.Solution
