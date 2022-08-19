@@ -95,7 +95,7 @@
 | Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                       |                           |        |
 | State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |                         |                           |        |
 | Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] |                         |                           |        |
-| ContactList Lab Walkthrough        |  [📺][cont-list-walk]     | -                             | -                      | -                         | -       |
+| ContactList Lab Walkthrough        |  [📺][cont-list-walk]     | -                             | -                      | [👾][state-props-sol]                        | -       |
 | Morning Review                     |                            | [🎟][am-rev-3-4-ticket]       | -                       | -                         | -     |
 
 [//]: # ' Paste in table above >> [📺][intro-react-lec] '
@@ -112,7 +112,7 @@
 [state-props-demo]: 01-junior-phase/day-13-react/PropsAndState/app
 [state-props-demo-2]: 01-junior-phase/day-13-react/PropsAndState/app/app.js
 [//]: # ' Paste in table above >> [👾][state-props-sol] '
-[state-props-sol]: https://github.com/FullstackAcademy/Lab.PropsAndState/blob/solution/app/index.js
+[state-props-sol]: https://github.com/joker-jonesy/contact-redo
 [//]: # ' Paste in table above >> [📺][react-lifecycle-lec] '
 [react-lifecycle-lec]: https://youtu.be/hzPFcj_9xAQ
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
