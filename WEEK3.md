@@ -192,7 +192,7 @@
 
 | Topic          | Lecture              | Slides                  | Demo | Solution       | Review |
 | -------------- | -------------------- | ----------------------- | ---- | -------------- | ------ |
-| Intro to Juke  |  | [🖼️][intro-juke-slides] | -    |  | -      |
+| Intro to Juke  |  | [🖼️][intro-juke-slides] | -    |  |[👾][am-rev-3-5-sol]      |
 | Morning Review |     | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
 
 [juke-sol]: https://github.com/FullstackAcademy/PairProject.Juke.Solution
@@ -206,7 +206,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-5-demo] '
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-3-5-sol] '
-[am-rev-3-5-sol]: #paste-gist-here
+[am-rev-3-5-sol]: https://github.com/joker-jonesy/solution-juke
 
 - **You should be able to:**
   - Describe how data flows between the client and server in a fullstack application
