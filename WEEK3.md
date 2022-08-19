@@ -92,7 +92,7 @@
 
 | Topic                              | Lecture                   | Slides                       | Demo                     | Solution                  | Review |
 | ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
-| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                       |                           |        |
+| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | [🧑‍💻][intro-react-demo]                     |                           |        |
 | State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |                         |                           |        |
 | Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] |                         |                           |        |
 | ContactList Lab Walkthrough        |  [📺][cont-list-walk]     | -                             | -                      | [👾][state-props-sol]                        | -       |
@@ -102,7 +102,7 @@
 [intro-react-lec]: https://youtu.be/Mpn0YqkGjvY
 [intro-react-slides]: https://docs.google.com/presentation/d/12YbNHn_ooDhKiAjdnwbQVbqaEesj-5oNEqheN8BCME0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][intro-react-demo] '
-[intro-react-demo]: ###
+[intro-react-demo]: https://github.com/joker-jonesy/2208-react-start
 [//]: # ' Paste in table above >> [👾][intro-react-sol] '
 [intro-react-sol]: 01-junior-phase/day-13-react/Lab.FirstComponent/app/index.js
 [//]: # ' Paste in table above >> [📺][state-props-lec] '
