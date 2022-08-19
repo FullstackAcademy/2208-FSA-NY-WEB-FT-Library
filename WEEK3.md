@@ -92,10 +92,11 @@
 
 | Topic                              | Lecture                   | Slides                       | Demo                     | Solution                  | Review |
 | ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
-| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                        |     |        |
-| State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |   |     |        |
-| Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] | |  |        |
-| Morning Review                     |         | [🎟][am-rev-3-4-ticket]       | -                        | -                         | -      |
+| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | -                       |                           |        |
+| State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |                         |                           |        |
+| Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] |                         |                           |        |
+| ContactList Lab Walkthrough        |  [📺][cont-list-walk]     | -                             | -                      | -                         | -       |
+| Morning Review                     |                            | [🎟][am-rev-3-4-ticket]       | -                       | -                         | -     |
 
 [//]: # ' Paste in table above >> [📺][intro-react-lec] '
 [intro-react-lec]: https://youtu.be/Mpn0YqkGjvY
@@ -117,6 +118,8 @@
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][react-lifecycle-sol] '
 [react-lifecycle-sol]: https://github.com/FullstackAcademy/PairExercise.ContactList.Solution
+[//]: # ' Paste in table above >> [📺][cont-list-walk] '
+[cont-list-walk]: https://youtu.be/Shz4jJojX8w
 [//]: # ' Paste in table above >> [📺][am-rev-3-4] '
 [am-rev-3-4]: https://youtu.be/U5yiIVQ_gxk
 [//]: # ' Paste in table above >> [🎟][am-rev-3-4-ticket] '
