@@ -192,15 +192,15 @@
 
 | Topic          | Lecture              | Slides                  | Demo | Solution       | Review |
 | -------------- | -------------------- | ----------------------- | ---- | -------------- | ------ |
-| Intro to Juke  |  | [🖼️][intro-juke-slides] | -    |  |[👾][am-rev-3-5-sol]      |
-| Morning Review |     | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
+| Fullstack Data flow  | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | -    |  |[👾][am-rev-3-5-sol]      |
+| Morning Review |   [📺][am-rev-3-5]  | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
 
 [juke-sol]: https://github.com/FullstackAcademy/PairProject.Juke.Solution
 [//]: # ' Paste in table above >> [📺][intro-juke-lec] '
-[intro-juke-lec]: https://youtu.be/MO2Mb-PL4hs
+[intro-juke-lec]: https://youtu.be/QVCwgEBW4tk
 [intro-juke-slides]: https://docs.google.com/presentation/d/1kg2IfIk1GaGzqXxXCA_GrZehDsXutF0gpAZqCvzt3Mo/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][am-rev-3-5] '
-[am-rev-3-5]: https://youtu.be/Z2yKl0ZZgow
+[am-rev-3-5]: https://youtu.be/u58u-eL1TuE
 [//]: # ' Paste in table above >> [🎟][am-rev-3-5-ticket] '
 [am-rev-3-5-ticket]: https://forms.gle/FCzjWPctovGvFsSq7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-5-demo] '
