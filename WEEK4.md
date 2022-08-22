@@ -19,7 +19,7 @@
 | Topic                       | Lecture                                        | Slides                   | Demo                         | Solution                 |
 | --------------------------- | ---------------------------------------------- | ------------------------ | ---------------------------- | ------------------------ |
 | Intro to Redux (Redux Bank) |       [📺][intro-redux-lec]                  | [🖼️][intro-redux-slides] | -                            |      |
-| Pixelate-Redux              | | -                        | -                            |  |
+| Pixelate-Redux              | | -                        | -                            | [👾][pixelate-redux-sol]  |
 | React-Redux Intro           |                  | -                        |  | -                        |
 | Morning Review              | -                                              | [🎟][am-rev-4-1-ticket]   | -                            |      |
 
@@ -37,7 +37,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][react-redux-intro-demo] '
 [react-redux-intro-demo]: 01-junior-phase/day-15-redux/react-redux
 [//]: # ' Paste in table above >> [👾][pixelate-redux-sol] '
-[pixelate-redux-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate-Redux.Solution
+[pixelate-redux-sol]: https://github.com/FullstackAcademy/PairExercise-PixelateRedux-Solution-V2
 [//]: # ' Paste in table above >> [📺][am-rev-4-1] '
 [am-rev-4-1]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-4-1-ticket] '
