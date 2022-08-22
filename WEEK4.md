@@ -18,13 +18,13 @@
 
 | Topic                       | Lecture                                        | Slides                   | Demo                         | Solution                 |
 | --------------------------- | ---------------------------------------------- | ------------------------ | ---------------------------- | ------------------------ |
-| Intro to Redux (Redux Bank) |                         | [🖼️][intro-redux-slides] | -                            |      |
+| Intro to Redux (Redux Bank) |       [📺][intro-redux-lec]                  | [🖼️][intro-redux-slides] | -                            |      |
 | Pixelate-Redux              | | -                        | -                            |  |
 | React-Redux Intro           |                  | -                        |  | -                        |
 | Morning Review              | -                                              | [🎟][am-rev-4-1-ticket]   | -                            |      |
 
 [//]: # ' Paste in table above >> [📺][intro-redux-lec] '
-[intro-redux-lec]: https://youtu.be/OFrLgTHMYsc
+[intro-redux-lec]: https://youtu.be/Wc6-UckY9WU
 [//]: # ' Paste in table above >> [📺][pixelate-mid-checkin-lec] '
 [pixelate-mid-checkin-lec]: https://youtu.be/bhRvPXe9J_E
 [intro-redux-slides]: https://docs.google.com/presentation/d/1GRN3chkUUxoWm94DgPy_T6MtvDRhOGYMnA8Djdo3rmA/edit?usp=sharing
