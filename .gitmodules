@@ -1,0 +1,6 @@
+[submodule "pokeRedux"]
+	path = pokeRedux
+	url = https://github.com/Stevenhulse14/pokeRedux
+[submodule "01-junior-phase/pokeRedux"]
+	path = 01-junior-phase/pokeRedux
+	url = https://github.com/Stevenhulse14/pokeRedux
