@@ -65,7 +65,7 @@
 | Topic                   | Lecture                   | Slides                 | Demo                       | Solution                  | Review |
 | ----------------------- | ------------------------- | ---------------------- | -------------------------- | ------------------------- | ------ |
 | React-Redux    |    [📺][connect-lec]    | [🖼️][thunks-slides]  | -                          |         | -      |
-| Redux Groceries         |  | -                      | -                          | | -      |
+| Redux Groceries         |  | -                      | -                          | https://github.com/joker-jonesy/goceries | -      |
 
 [//]: # ' Paste in table above >> [📺][connect-lec] '
 [connect-lec]: https://youtu.be/P3sHi0i5oaw
