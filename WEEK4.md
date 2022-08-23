@@ -74,7 +74,7 @@
 [connect-sol]: https://github.com/FullstackAcademy/Lab.ReactReduxConnect/tree/solution
 [redux-groceries-lec]: https://youtu.be/TdlV2Q_O3Z4
 [//]: # ' Paste in table above >> [👾][redux-groceries-sol] '
-[redux-groceries-sol]: https://github.com/FullstackAcademy/PairExercise.ReduxGroceries/tree/Solution
+[redux-groceries-sol]: https://github.com/joker-jonesy/goceries
 [//]: # ' Paste in table above >> [📺][thunks-lec] '
 [thunks-lec]: https://youtu.be/JHch3lqKikY
 [thunks-slides]: https://docs.google.com/presentation/d/1fnISsDpLf-uG5vhGMwTzERSv0BHxg_fysz-dMsIhhWo/edit?usp=sharing
