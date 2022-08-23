@@ -64,14 +64,11 @@
 
 | Topic                   | Lecture                   | Slides                 | Demo                       | Solution                  | Review |
 | ----------------------- | ------------------------- | ---------------------- | -------------------------- | ------------------------- | ------ |
-| React-Redux `connect`   |        | [🖼️][connect-slides]   | -                          |         | -      |
+| React-Redux    |    [📺][connect-lec]    | [🖼️][thunks-slides]  | -                          |         | -      |
 | Redux Groceries         |  | -                      | -                          | | -      |
-| Redux Thunks            |        | [🖼️][thunks-slides]    |          |        | -      |
-| Redux `combineReducers` |  | -                      |  |  | -      |
-| Morning Review          |         | [🎟][am-rev-4-2-ticket] |    | -                         | -      |
 
 [//]: # ' Paste in table above >> [📺][connect-lec] '
-[connect-lec]: https://youtu.be/Ms8C6fuJjL4
+[connect-lec]: https://youtu.be/P3sHi0i5oaw
 [connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][connect-sol] '
 [connect-sol]: https://github.com/FullstackAcademy/Lab.ReactReduxConnect/tree/solution
@@ -101,7 +98,6 @@
 [am-rev-4-2-sol]: #paste-gist-here
 
 - **You should be able to:**
-  - `connect` a React component to the Redux store, mapping necessary state/dispatch to props
   - Create a Redux store (with a proper reducer and any necessary middleware)
   - Use thunks to perform AJAX requests with a React/Redux application
   - Use `combineReducers` to split your reducer function into separate functions, each managing independent slices of your store's state
