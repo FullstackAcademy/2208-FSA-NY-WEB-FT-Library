@@ -124,7 +124,7 @@
 | React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |
 | React Router 201 |  | [🖼️][router-201-slides] |  | -                    | -      |
 | Readium          | -                    | -                       | -                 |   | -      |
-| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 | | -      |[📺][am-rev-4-3]
+| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  | -      [📺][am-rev-4-3] |
 
 [//]: # ' Paste in table above >> [📺][router-101-lec] '
 [router-101-lec]: https://youtu.be/3WTzsNhdKAQ
