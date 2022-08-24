@@ -121,9 +121,9 @@
 
 | Topic            | Lecture              | Slides                  | Demo              | Solution             | Review |
 | ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
-| React Router 101 |  | [🖼️][router-101-slides] | -                 | [📺][router-101-lec]                   | -      |
-| React Router 201 |  | [🖼️][router-201-slides] |  | [📺][readium-rev]                    | -      |
-| Readium          | -                    | -                       | -                 |   | -      |
+| React Router 101 | [📺][router-101-lec] | [🖼️][router-101-slides] | -                 |                    | -      |
+| React Router 201 |  | [🖼️][router-201-slides] |  |                     | -      |
+| Readium          | [📺][readium-rev]                    | -                       | -                 |   | -      |
 | Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  |   [📺][am-rev-4-3] |
 
 [//]: # ' Paste in table above >> [📺][router-101-lec] '
