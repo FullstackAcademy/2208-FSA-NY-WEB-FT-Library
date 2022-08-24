@@ -121,13 +121,13 @@
 
 | Topic            | Lecture              | Slides                  | Demo              | Solution             | Review |
 | ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
-| React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |
-| React Router 201 |  | [🖼️][router-201-slides] |  | -                    | -      |
+| React Router 101 |  | [🖼️][router-101-slides] | -                 | [📺][router-101-lec]                   | -      |
+| React Router 201 |  | [🖼️][router-201-slides] |  | [📺][readium-rev]                    | -      |
 | Readium          | -                    | -                       | -                 |   | -      |
-| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  | -      [📺][am-rev-4-3] |
+| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  |   [📺][am-rev-4-3] |
 
 [//]: # ' Paste in table above >> [📺][router-101-lec] '
-[router-101-lec]: https://youtu.be/3WTzsNhdKAQ
+[router-101-lec]: https://youtu.be/qWv5_eSLgb0
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][router-201-lec] '
 [router-201-lec]: https://youtu.be/ecjxIliULco
@@ -137,7 +137,7 @@
 [//]: # ' Paste in table above >> [👾][readium-sol] '
 [readium-sol]: https://github.com/FullstackAcademy/PairExercise.Readium-with-Redux.Solution
 [//]: # ' Paste in table above >> [📺][readium-rev] '
-[readium-rev]: ###
+[readium-rev]: https://youtu.be/AtlvIhvd1q4
 [//]: # ' Paste in table above >> [📺][am-rev-4-3] '
 [am-rev-4-3]: https://youtu.be/_QX8MBf4Yd8
 [//]: # ' Paste in table above >> [🎟][am-rev-4-3-ticket] '
