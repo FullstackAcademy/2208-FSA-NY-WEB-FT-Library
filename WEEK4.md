@@ -121,7 +121,7 @@
 
 | Topic            | Lecture              | Slides                  | Demo              | Solution             | Review |
 | ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
-| React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |
+| React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |[📺][https://studio.youtube.com/video/_QX8MBf4Yd8/edit]
 | React Router 201 |  | [🖼️][router-201-slides] |  | -                    | -      |
 | Readium          | -                    | -                       | -                 |   | -      |
 | Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 | | -      |
