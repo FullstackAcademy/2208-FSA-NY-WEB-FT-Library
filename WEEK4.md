@@ -173,7 +173,7 @@
 
 | Topic          | Lecture             | Slides                                        | Demo                  | Solution                                                                                                                              | Review                                         |
 | -------------- | ------------------- | --------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| React Forms    |  | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |      |                                                                                                                       | -                                              |
+| React Forms    |  | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |   [🧑‍💻][forms-demo]   |                                                                                                                       | -                                              |
 | Todo List      | -                   | -                                             | -                     | |  |
 | Morning Review |    | [🎟][am-rev-4-4-ticket]                        | | -                                                                                                                                     | -                                              |
 
@@ -185,7 +185,7 @@
 [forms-201-lec]: #paste-YouTube-link-here
 [forms-201-slides]: https://docs.google.com/presentation/d/11e9PBgkmjd0ng-jpOhxDEjfhG2OAvU5NbDkfb9GW85c/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][forms-demo] '
-[forms-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/2a6e0b643abbea1d93c65eaff2a2218ccf6618b5
+[forms-demo]: https://github.com/joker-jonesy/forms-react
 [//]: # ' Paste in table above >> [👾][todo-list-sol] '
 [todo-list-sol-1]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution
 [todo-list-sol-2]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution/tree/without-todo-in-state
