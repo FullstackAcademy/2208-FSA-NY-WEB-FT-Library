@@ -173,16 +173,16 @@
 
 | Topic          | Lecture             | Slides                                        | Demo                  | Solution                                                                                                                              | Review                                         |
 | -------------- | ------------------- | --------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| React Forms    |  | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |   [🧑‍💻][forms-demo]   |                                                                                                                       | -                                              |
+| React Forms    | [📺][forms-101-lec] [📺][forms-201-lec] | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |   [🧑‍💻][forms-demo]   |                                                                                                                       | -                                              |
 | Todo List      | -                   | -                                             | -                     | |  |
 | Morning Review |    | [🎟][am-rev-4-4-ticket]                        | | -                                                                                                                                     | -                                              |
 
 [forms-sol]: https://github.com/FullstackAcademy/Solution.ReactForms
 [//]: # ' Paste in table above >> [📺][forms-101-lec] '
-[forms-101-lec]: https://youtu.be/ad3afzPIPQA
+[forms-101-lec]: https://youtu.be/iVeotKqAwgU
 [forms-101-slides]: https://docs.google.com/presentation/d/1pkRzpRAqq9ZtWx58WZLjhkJ0zS3lemaLZwKb1wCSfRU/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][forms-201-lec] '
-[forms-201-lec]: #paste-YouTube-link-here
+[forms-201-lec]: https://youtu.be/oLwh16plgIw
 [forms-201-slides]: https://docs.google.com/presentation/d/11e9PBgkmjd0ng-jpOhxDEjfhG2OAvU5NbDkfb9GW85c/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][forms-demo] '
 [forms-demo]: https://github.com/joker-jonesy/forms-react
@@ -196,7 +196,7 @@
 [//]: # ' Paste in table above >> [🎟][am-rev-4-4-ticket] '
 [am-rev-4-4-ticket]: https://forms.gle/mAF1NLCBxbVMLzCUA
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-4-demo] '
-[am-rev-4-4-demo]: 01-junior-phase/day-17-react-router/Morning-Review.js
+[am-rev-4-4-demo]: https://youtu.be/Sv40tkoD980
 [//]: # ' Paste in table above >> [👾][am-rev-4-4-sol] '
 [am-rev-4-4-sol]: #paste-gist-here
 
