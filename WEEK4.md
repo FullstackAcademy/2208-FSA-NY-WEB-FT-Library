@@ -19,7 +19,7 @@
 | Topic                       | Lecture                                        | Slides                   | Demo                         | Solution                 |
 | --------------------------- | ---------------------------------------------- | ------------------------ | ---------------------------- | ------------------------ |
 | Intro to Redux (Redux Bank) |       [📺][intro-redux-lec]                  | [🖼️][intro-redux-slides] | -                            |      |
-| Pixelate-Redux              | | -                        | -                            | [👾][pixelate-redux-sol]  |
+| Pixelate-Redux              | | -                        | -                            | [👾][redux-bank-sol]  |
 | React-Redux Intro           |                  | -                        |  | -                        |
 | Morning Review              | -                                              | [🎟][am-rev-4-1-ticket]   | -                            |      |
 
