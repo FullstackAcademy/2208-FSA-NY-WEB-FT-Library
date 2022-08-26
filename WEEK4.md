@@ -174,7 +174,7 @@
 | Topic          | Lecture             | Slides                                        | Demo                  | Solution                                                                                                                              | Review                                         |
 | -------------- | ------------------- | --------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | React Forms    | [📺][forms-101-lec] [📺][forms-201-lec] | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |   [🧑‍💻][forms-demo]   |                                                                                                                       | -                                              |
-| Todo List      | -                   | -                                             | -                     | |  |
+| Todo List      | -                   | -                                             | -                     | [👾][todo-list-sol]  |  |
 | Morning Review |    | [🎟][am-rev-4-4-ticket]                        | | -                                                                                                                                     | -                                              |
 
 [forms-sol]: https://github.com/FullstackAcademy/Solution.ReactForms
