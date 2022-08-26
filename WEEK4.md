@@ -123,7 +123,7 @@
 | ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
 | React Router 101 | [📺][router-101-lec] | [🖼️][router-101-slides] | -                 |                    | -      |
 | React Router 201 |  | [🖼️][router-201-slides] |  |                     | -      |
-| Readium          | [📺][readium-rev]                    | -                       | -                 |   | -      |
+| Readium          | [📺][readium-rev]                    | -                       | -                 | [👾][readium-sol]  | -      |
 | Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  |   [📺][am-rev-4-3] |
 
 [//]: # ' Paste in table above >> [📺][router-101-lec] '
@@ -135,7 +135,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][router-demo] '
 [router-demo]: 01-junior-phase/day-17-react-router/React-Router-Demo
 [//]: # ' Paste in table above >> [👾][readium-sol] '
-[readium-sol]: https://github.com/FullstackAcademy/PairExercise.Readium-with-Redux.Solution
+[readium-sol]: https://github.com/joker-jonesy/readium-solution
 [//]: # ' Paste in table above >> [📺][readium-rev] '
 [readium-rev]: https://youtu.be/AtlvIhvd1q4
 [//]: # ' Paste in table above >> [📺][am-rev-4-3] '
@@ -187,7 +187,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][forms-demo] '
 [forms-demo]: https://github.com/joker-jonesy/forms-react
 [//]: # ' Paste in table above >> [👾][todo-list-sol] '
-[todo-list-sol-1]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution
+[todo-list-sol-1]: https://github.com/joker-jonesy/todo-solution
 [todo-list-sol-2]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution/tree/without-todo-in-state
 [//]: # ' Paste in table above >> [📺][todo-list-rev] '
 [todo-list-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113
