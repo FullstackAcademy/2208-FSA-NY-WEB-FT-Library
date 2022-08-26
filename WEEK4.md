@@ -228,23 +228,23 @@
 
 | Topic          | Lecture | Slides | Demo | Solution | Review |
 | -------------- | ------- | ------ | ---- | -------- | ------ |
-| Goodie Bag     | -       | -      | -    | -        | -      |
-| Draw the Stack | -       | -      | -    | -        | -      |
-| Intro to JPFP  | -       | -      | -    | -        | -      |
+| Goodie Bag     | [📺][goodie-bag-lec]  | -      | -    | -        | -      |
+| Intro to JPFP  | [📺][jpfp-lec]  | -      | -    | -        | -      |
+| Morning Review | [📺][morn-rev]  | -      | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][goodie-bag-lec] '
-[goodie-bag-lec]: https://youtu.be/xqi0ISTf1K8
+[goodie-bag-lec]: https://youtu.be/AtE6lVOHZo8
 [//]: # ' Paste in table above >> [🔗][goodie-bag] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
 [goodie-bag]: 01-junior-phase/day-19-goodie-bag/GoodieBag
 [//]: # ' Paste in table above >> [👾][goodie-bag-sol] '
 [goodie-bag-sol]: https://github.com/FullstackAcademy/GoodieBag.Solution
-[//]: # ' Paste in table above >> [📺][draw-the-stack-lec] '
-[draw-the-stack-lec]: https://youtu.be/nI277QxP91o
+[//]: # ' Paste in table above >> [📺][morn-rev] '
+[morn-rev]: https://youtu.be/I9NJHJMd_P4
 [//]: # ' Paste in table above >> [🔗][draw-the-stack] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
 [//]: # ' Paste in table above >> [👾][draw-the-stack-sol] '
 [draw-the-stack-sol]: ###link-to-img-of-end-point
 [//]: # ' Paste in table above >> [📺][jpfp-lec] '
-[jpfp-lec]: https://youtu.be/DG6oVj9uYt4
+[jpfp-lec]: https://youtu.be/Uq1u9_r-DXQ
 [//]: # ' Paste in table above, already linked at top in Checkpoints section >> [🔗][jpfp] '
 
 </details>
