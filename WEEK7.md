@@ -7,7 +7,7 @@ Below are the **mandatory** topics to complete **_before_** Senior Phase starts!
 | Topic                                     | Link                      | Solution             | Review                                                                   |
 | ----------------------------------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------ |
 | ⭐️ Boilermaker                             | [🔗][boilermaker-workshop] | [👾][boilermaker-sol] | [📺- Security][security-playlist] [📺- Testing][intro to testing playlist] |
-| 🛫 Deployment                              | [🔗][deployment-workshop]  | -                    | [📺][heroku-video]                                                        |
+| 🛫 Deployment                              |  | -                    | [📺][heroku-video]                                                        |
 | 🔍 Project (AWP) **_due Friday, 1pm EST_** | [🔗][awp-overview]         | -                    | -                                                                        |
 | AGILE Development                         | [📺][agile-lec]            | -                    | -                                                                        |
 | Giving Feedback                           | [📺][feedback-lec]         | -                    | -                                                                        |
