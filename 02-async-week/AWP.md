@@ -8,7 +8,7 @@ For some inspiration, check out this [list of technologies](https://docs.google.
 
 ## **When?**
 
-It is **due by Friday at 1pm (EST) of Async Week**.
+It is **due by Friday at 11:59pm (EST) of Async Week**.
 
 ## **How?**
 
