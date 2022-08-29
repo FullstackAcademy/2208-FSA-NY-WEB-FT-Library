@@ -2,6 +2,8 @@
 
 [⬅ Go Back](README.md)
 
+## Day 1: Labor Day (No class)
+
 ## Day 2: JWT Authentication
 
 - Pre-Work:
@@ -10,7 +12,7 @@
 | Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
 | -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
 | Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  |  |  |
-| Morning Review |                             | [🎟][am-rev-6-4-ticket]                             | -                                                               | -                     | -                    |
+
 
 [//]: # ' Paste in table above >> [📺][jwt-lec] '
 [jwt-lec]: https://youtu.be/bo9FC_bWmY0
@@ -55,7 +57,7 @@
 | Algorithms & Analysis |       | [🖼️][big-o-slides]       | -    | -                     | -                    |
 | Bubble Sort           |  | [🖼️][bubble-sort-slides] | -    |  | -                    |
 | Merge Sort            |   | [🖼️][merge-sort-slides]  | -    |   | |
-| Morning Review        |     | [🎟][am-rev-6-2-ticket]   | -    | -                     | -                    |
+
 
 [//]: # ' Paste in table above >> [📺][big-o-lec] '
 [big-o-lec]: https://youtu.be/8FkX7AS_oQQ
@@ -122,7 +124,7 @@
 | Stacks & Queues     |  | [🖼️][stacks-queues-slides] |  | -        | -      |
 | Linked Lists        | | [🖼️][linked-lists-slides]  | | |  |
 | Binary Search Trees | | [🖼️][bst-slides]           |  |  |  |
-| Morning Review      | -       | [🎟][am-rev-6-1-ticket] | -    | -        | -      |
+
 
 [sq-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-26-data-structures
 [ll-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/ll.js
