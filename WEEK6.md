@@ -2,7 +2,7 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: JWT Authentication
+## Day 2: JWT Authentication
 
 - Pre-Work:
   - [Getting started with JSON web tokens](https://auth0.com/learn/json-web-tokens/)
@@ -39,7 +39,7 @@
 
 </details>
 
-## Day 2: Algorithms & Analysis, Sorting
+## Day 3: Algorithms & Analysis, Sorting
 
 - Pre-Work:
   - [Big-O notation in 5 minutes - The basics][big-o-basics]
@@ -106,7 +106,7 @@
 
 </details>
 
-## Day 3: Data Structures (Stacks, Queues & Linked Lists)
+## Day 4: Data Structures (Stacks, Queues & Linked Lists)
 
 - Pre-Work:
   - [Stacks and queues: the basics][stacks-queues-basics]
@@ -170,37 +170,7 @@
 
 </details>
 
-## Day 4: Hash Tables
 
-- Pre-Work: None!
-
-| Topic                       | Lecture | Slides                        | Demo | Solution | Review |
-| --------------------------- | ------- | ----------------------------- | ---- | -------- | ------ |
-| Hash Tables                 | -       | [🖼️][hash-table-slides]       | -    | -        | -      |
-| Algorithmic Problem Solving | -       | [🖼️][algorithmic-prob-slides] | -    | -        | -      |
-| Search &&! Destroy          | -       | -                             | -    | -        | -      |
-| Morning Review              | -       | [🎟][am-rev-6-3-ticket]                             | -    | -        | -      |
-
-[//]: # ' Paste in table above >> [📺][hash-table-lec] '
-[hash-table-lec]: #paste-YouTube-link-here
-[hash-table-slides]: https://docs.google.com/presentation/d/1y6ZqABDfxA6tNuAAhC-PoSHFaJPEK0HO-ys113o5CzY/edit?usp=sharing
-[//]: # ' Paste in table above >> [🧑‍💻][hash-table-demo] '
-[hash-table-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [📺][algorithmic-prob-lec] '
-[algorithmic-prob-lec]: #paste-YouTube-link-here
-[algorithmic-prob-slides]: https://docs.google.com/presentation/d/1-JH0S0ZdYgaLWtofxyAfGvm9vHrDzIHD-r0-CGJjrEA/edit?usp=sharing
-[//]: # ' Paste in table above >> [🧑‍💻][algorithmic-prob-demo] '
-[algorithmic-prob-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [👾][search-destroy-sol] '
-[search-destroy-sol]: ###
-[//]: # ' Paste in table above >> [📺][am-rev-6-3] '
-[am-rev-6-3]: #paste-YouTube-link-here
-[//]: # ' Paste in table above >> [🎟][am-rev-6-3-ticket] '
-[am-rev-6-3-ticket]: [#paste-google-form-link-here](https://forms.gle/vvBKNAsMoNNFqw698)
-[//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-3-demo] '
-[am-rev-6-3-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [👾][am-rev-6-3-sol] '
-[am-rev-6-3-sol]: #paste-gist-here
 
 ## Day 5: Final Day of Junior Phase!
 
