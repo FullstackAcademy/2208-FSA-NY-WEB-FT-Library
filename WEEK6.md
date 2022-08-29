@@ -12,6 +12,7 @@
 | Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
 | -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
 | Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  |  |  |
+| Navigation Bar Lecture | [📺][nav-bar]| [📎][starter] |  |  |  |
 
 
 [//]: # ' Paste in table above >> [📺][jwt-lec] '
@@ -31,6 +32,11 @@
 [am-rev-6-4-demo]: https://github.com/FullstackAcademy/PairExercise.JWTAuthWithPasswordHashing.Solution
 [//]: # ' Paste in table above >> [👾][am-rev-6-4-sol] '
 [am-rev-6-4-sol]: https://youtu.be/9u_arxPBeRs
+[//]: # ' Paste in table above >> [📺][nav-bar] '
+[nav-bar]: #link-video 
+[//]: # ' Paste in table above >> [📎][starter] '
+[starter]: #link-code
+
 
 - **You should be able to:**
   - Explain the motivation for token-based authentication
