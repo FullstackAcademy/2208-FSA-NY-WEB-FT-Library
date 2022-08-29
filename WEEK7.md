@@ -11,6 +11,7 @@ Below are the **mandatory** topics to complete **_before_** Senior Phase starts!
 | 🔍 Project (AWP) **_due Friday, 1pm EST_** | [🔗][awp-overview]         | -                    | -                                                                        |
 | AGILE Development                         | [📺][agile-lec]            | -                    | -                                                                        |
 | Giving Feedback                           | [📺][feedback-lec]         | -                    | -                                                                        |
+| Hash Tables                   |    [🔗][hash]          | -                    | -                                                                        |
 | 🚨 Security - Optional!                    | See below!                | -                    | -                                                                        |
 | Redux Toolkit - Optional!                    |    [📺][toolkit]            | -                    | -                                                                        |
 | Font Awesome - Optional!                    |    [📺][fontawesome]            | -                    | -                                                                        |
@@ -28,6 +29,7 @@ Below are the **mandatory** topics to complete **_before_** Senior Phase starts!
 [heroku-video]: https://www.youtube.com/watch?v=Iz23rO7LvbE
 [toolkit]: https://youtu.be/xPkkJmkPWdQ
 [fontawesome]: https://youtu.be/FLBt2qVK9wc
+[hash]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/blob/main/hashtable.md
 
 **A few notes:**
 
