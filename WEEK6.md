@@ -33,9 +33,9 @@
 [//]: # ' Paste in table above >> [👾][am-rev-6-4-sol] '
 [am-rev-6-4-sol]: https://youtu.be/9u_arxPBeRs
 [//]: # ' Paste in table above >> [📺][nav-bar] '
-[nav-bar]: #link-video 
+[nav-bar]: https://youtu.be/o9eBnuIx4L8
 [//]: # ' Paste in table above >> [📎][starter] '
-[starter]: #link-code
+[starter]: https://github.com/joker-jonesy/navigation-bar
 
 
 - **You should be able to:**
