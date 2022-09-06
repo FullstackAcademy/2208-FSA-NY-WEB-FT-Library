@@ -11,7 +11,7 @@
 
 | Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
 | -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
-| Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  |  |  |
+| Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  | [👾][authentication-sol] |  |
 | Navigation Bar Lecture | [📺][nav-bar]| [📎][starter] |  |  |  |
 
 
@@ -23,7 +23,7 @@
 [jwt-slides]: https://docs.google.com/presentation/d/10xFSLjUGROHLZM1HtMsKzWKZh04UPf-UpHCu7582tsQ/edit?usp=sharing
 [bcrypt-slides]: https://docs.google.com/presentation/d/1NWx0ASqOWVVqtmk8citCEPlBxzvzkcXe5S_anHYKc5o/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][authentication-sol] '
-[authentication-sol]: ###
+[authentication-sol]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/PairExercise.JWTAuthWithPasswordHashing.Solution-main
 [//]: # ' Paste in table above >> [📺][am-rev-6-4] '
 [am-rev-6-4]: https://youtu.be/f4xb8_lCxaM
 [//]: # ' Paste in table above >> [🎟][am-rev-6-4-ticket] '
