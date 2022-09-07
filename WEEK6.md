@@ -60,23 +60,23 @@
 
 | Topic                 | Lecture               | Slides                   | Demo | Solution              | Review               |
 | --------------------- | --------------------- | ------------------------ | ---- | --------------------- | -------------------- |
-| Algorithms & Analysis |       | [🖼️][big-o-slides]       | -    | -                     | -                    |
-| Bubble Sort           |  | [🖼️][bubble-sort-slides] | -    |  | -                    |
-| Merge Sort            |   | [🖼️][merge-sort-slides]  | -    |   | |
+| Algorithms & Analysis |   📺    | [🖼️][big-o-slides]       | -    | -                     | -                    |
+| Bubble Sort           | 📺  | [🖼️][bubble-sort-slides] | -    |  | -                    |
+| Merge Sort            |  📺 | [🖼️][merge-sort-slides]  | -    |   | |
 
 
 [//]: # ' Paste in table above >> [📺][big-o-lec] '
-[big-o-lec]: https://youtu.be/8FkX7AS_oQQ
+[big-o-lec]: https://youtu.be/DEDmW7gGVLc
 [big-o-slides]: https://docs.google.com/presentation/d/1XEZTxq_PyuFhEk0f_wl_f25x1f1dDV7XAdJhfa6gp0E/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][bubble-sort-lec] '
-[bubble-sort-lec]: https://youtu.be/t8Jf5ULR_R0
+[bubble-sort-lec]: https://youtu.be/5xUFzMJxB7c
 [bubble-sort-slides]: https://docs.google.com/presentation/d/1uytV7plwn3bK2syjRTXGnZj2Opu7gjt2fSBzaBqdh7E/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][bubble-sort-sol] '
 [bubble-sort-sol]: 01-junior-phase/day-25-algorithms/bubblesort
 [//]: # ' Paste in table above >> [📺][bubble-sort-rev] '
 [bubble-sort-rev]: ###
 [//]: # ' Paste in table above >> [📺][merge-sort-lec] '
-[merge-sort-lec]: https://youtu.be/BFo9ql7ta94
+[merge-sort-lec]: https://youtu.be/zv4Nxt6AVCM
 [merge-sort-slides]: https://docs.google.com/presentation/d/1UyF-e9yBkfUBTqn9kut7S4EcjQi77xccaQAmwgospt8/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][merge-sort-sol] '
 [merge-sort-sol]: 01-junior-phase/day-25-algorithms/merge-sort/solution
