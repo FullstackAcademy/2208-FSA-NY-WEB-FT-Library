@@ -11,12 +11,12 @@
 
 | Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
 | -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
-| Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  | [👾][authentication-sol] |  |
+| Authentication |[📺][jwt-lec] | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  | [👾][authentication-sol] |  |
 | Navigation Bar Lecture | [📺][nav-bar]| [📎][starter] |  |  |  |
 
 
 [//]: # ' Paste in table above >> [📺][jwt-lec] '
-[jwt-lec]: https://youtu.be/bo9FC_bWmY0
+[jwt-lec]: https://youtu.be/IVGOSS8VTyI
 [bcrypt-lec]: https://youtu.be/QPpYDanzJQI
 [auth-demo-1]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-24-auth/auth-demo-1-quick
 [auth-demo-2]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/a9a312195b658bd03272b53af48881ecb12f77ac
