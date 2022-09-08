@@ -127,7 +127,7 @@
 
 | Topic               | Lecture | Slides                     | Demo | Solution | Review |
 | ------------------- | ------- | -------------------------- | ---- | -------- | ------ |
-| Stacks & Queues     |  | [🖼️][stacks-queues-slides] |  | -        | -      |
+| Stacks & Queues     | 📺 | [🖼️][stacks-queues-slides] |  | -        | -      |
 | Linked Lists        | | [🖼️][linked-lists-slides]  | | |  |
 | Binary Search Trees | [📺][bst-lec] | [🖼️][bst-slides]           |  |  |  |
 
@@ -137,7 +137,7 @@
 [bst-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/bst.js
 
 [//]: # ' Paste in table above >> [📺][stacks-queues-lec] '
-[stacks-queues-lec]: https://youtu.be/9gtj25AkpUs
+[stacks-queues-lec]: https://youtu.be/vNAzo32L63A
 [stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][linked-lists-lec] '
 [linked-lists-lec]: https://youtu.be/nKcnZWQjmiM
