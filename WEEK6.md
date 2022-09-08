@@ -129,7 +129,7 @@
 | ------------------- | ------- | -------------------------- | ---- | -------- | ------ |
 | Stacks & Queues     |  | [🖼️][stacks-queues-slides] |  | -        | -      |
 | Linked Lists        | | [🖼️][linked-lists-slides]  | | |  |
-| Binary Search Trees | | [🖼️][bst-slides]           |  |  |  |
+| Binary Search Trees | [📺][bst-lec] | [🖼️][bst-slides]           |  |  |  |
 
 
 [sq-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-26-data-structures
@@ -147,7 +147,7 @@
 [//]: # ' Paste in table above >> [📺][linked-lists-rev] '
 [linked-lists-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti
 [//]: # ' Paste in table above >> [📺][bst-lec] '
-[bst-lec]: https://youtu.be/7jRv6m2YV6E
+[bst-lec]: https://youtu.be/yQiBXE6g_nA
 [bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][bst-sol] '
 [bst-sol]: https://github.com/FullstackAcademy/PairExercise.BinarySearchTree.Solution
