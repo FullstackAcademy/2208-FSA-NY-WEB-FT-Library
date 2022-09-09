@@ -186,10 +186,10 @@
 
 | Topic                 | Lecture | Slides | Solution | Review |
 | --------------------- | ------- | ------ | -------- | ------ |
-| Intro to Senior Phase | -       | -      | -        | -      |
+| Intro to Senior Phase | [📺][senior-intro-lec]       | -      | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][senior-intro-lec] '
-[senior-intro-lec]: #replace-with-YouTube-link
+[senior-intro-lec]: https://youtu.be/ySVg1fuF82A
 [//]: # ' Paste in table above >> [🖼️][senior-intro-slides] '
 [senior-intro-slides]: #link-to-slide-deck-here
 
